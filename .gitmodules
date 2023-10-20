@@ -1,0 +1,6 @@
+[submodule "hugo-story"]
+	path = hugo-story
+	url = https://github.com/caressofsteel/hugo-story.git
+[submodule "themes/hugo-story"]
+	path = themes/hugo-story
+	url = https://github.com/caressofsteel/hugo-story.git
