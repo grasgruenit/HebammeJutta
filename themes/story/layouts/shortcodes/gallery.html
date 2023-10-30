@@ -1,0 +1,14 @@
+{{ $path :=.Page.File.Path }}
+{{ $path :=(replace $path "\\" "/") }}
+{{ $path :=(replace $path ".md" "") }}
+
+{{ warnf $path }}
+<div class="gallery style2 small lightbox">
+	{{ range (readDir (printf "%s%s" "content/" $path)) }}
+	<article>
+		<a href="/{{$path}}/{{ .Name }}" class="image">
+			<img src="/{{$path}}/{{ .Name }}" alt="" />
+		</a>
+	</article>
+	{{ end }}
+</div>

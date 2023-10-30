@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+
+<html>
+	
+	{{ partial "template/head" . }}
+
+	<body class="is-preload">
+		<a href="../" style="position:absolute;top:20px;right:20px;z-index:10;" class="button icon solid fa-chevron-left">Zurück</a>
+
+		<!-- Wrapper -->
+		<div style="margin:20px">
+          <a href="/" title="Startseite" ><img src="../logo.jpg" style="max-width:200px;"></a>
+				<br><br>
+		  <h1>{{ .Title }}</h1>
+
+		  {{ .Content }}
+
+	    </div>
+		
+		{{ template "_internal/google_analytics.html" . }}
+		{{ partial "template/scripts" . }}
+		<a href="../" style="float:right;margin:20px;" class="button icon solid fa-chevron-left">Zurück</a>
+<br><br>
+
+		{{ partial "template/footer" . }}
+
+	</body>
+</html>

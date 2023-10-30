@@ -1,0 +1,150 @@
+<!DOCTYPE HTML>
+<!--
+	Hugo Story by CaressOfSteel
+	A (modular, highly tweakable) responsive one-page theme for Hugo.
+	Ported from Story by HTML5UP.
+	This Hugo theme is licensed under the Creative Commons Attribution 3.0 License.
+-->
+<html>
+<style> blockquote {background-color:beige;} </style>
+
+{{ partial "template/head" . }}
+
+<body class="is-preload">
+
+	<!-- Wrapper -->
+	<div id="wrapper" class="divided">
+
+		<!-- Banner -->
+		<section
+			class="banner style1 orient-left content-align-left image-position-center fullscreen onload-content-fade-right">
+			<div class="content">
+				<a href="../" title="Startseite" ><img src="logo.jpg" style="max-width:250px;"></a>
+				<br><br>
+				{{ with .Site.Title }}<h1>{{.}}</h1>{{end}}
+				{{ with .Site.Params.subtitle }}<p class="major">{{.}}</p>{{end}}
+
+				{{ .Content }}
+				<p>&nbsp;</p>
+				<ul class="actions stacked">
+					<li><a href="#unser-weingut"
+							class="button large wide smooth-scroll-middle icon fa-arrow-down">scroll</a></li>
+				</ul>
+			</div>
+			<div class="image">
+				<img src="{{ .Params.image }}.jpg" alt="Martina und Wolfgang Bäuerl" />
+			</div>
+		</section>
+
+		{{ range sort (where .Data.Pages "Section" "") "File.Path" }}
+		{{ if eq .Params.hidden true }}
+
+		{{ else }}
+
+
+		<section
+			class="spotlight {{ .Params.style }} orient-{{ .Params.orient }} content-align-left image-position-{{ .Params.imagepos }} "
+			id="{{ .Params.link }}">
+			<div class="content">
+				<h2>{{ .Title }}</h2>
+				<p>{{ .Content }}</p>
+				<ul class="actions stacked">
+					<li><a href="{{ .Params.link }}" class="button icon fa-chevron-right"> Weiterlesen</a></li>
+				</ul>
+			</div>
+			<div class="image">
+				<img src="{{ .Params.image }}.jpg" alt="" />
+			</div>
+		</section>
+		{{ end }}
+		{{ end }}
+
+		<section class="wrapper style1 align-center">
+			<div class="inner">
+				<div class="index align-left">
+					<section id="Kontakt">
+						<header>
+							<h2>Kontakt</h2>
+						</header>
+						<div class="content">
+
+							<form method="post" action="https://forms.un-static.com/forms/a04cd6d8f5c7794f1634fcac0fdb39624eca9de3">
+								<div class="fields">
+									<div class="field third">
+										<label for="name">Name *</label>
+										<input type="text" name="name" id="name" value="" required="required" />
+									</div>
+									<div class="field third">
+										<label for="email">Email *</label>
+										<input type="email" name="email" id="email" value="" required="required" />
+									</div>
+									<div class="field third">
+										<label for="email">Telefon *</label>
+										<input type="text" name="phone" id="phone" value="" required="required" />
+									</div>
+									<div class="field">
+										<label for="message">Nachricht *</label>
+										<textarea name="message" id="message" rows="6"></textarea>
+									</div>
+									<div class="field">
+										<input type="checkbox" id="newsletter" name="newsletter" />
+										<label for="newsletter">Ja, schicken Sie mir bitte Ihren Newsletter
+										</label>
+									</div>
+									<div class="field">
+										<input type="checkbox" id="preisliste" name="preisliste" />
+										<label for="preisliste">Ja, schicken Sie mir bitte eine Preisliste Ihrer Weine
+										</label>
+									</div>
+									<div class="field">
+										<input type="checkbox" id="datenschutz" name="datenschutz" required="required" />
+										<label for="datenschutz">Ja, ich habe die <a href="datenschutz">Datenschutzerklärung</a> gelesen und erkläre mich damit einverstanden
+										</label>
+									</div>
+
+								</div>
+								<ul class="actions">
+									<li><input type="submit" name="submit" id="submit" value="Absenden" /></li>
+								</ul>
+							</form>
+
+						</div>
+					</section>
+				</div>
+			</div>
+		</section>
+
+		<section class="banner style1" id="Anfahrt">
+			<!-- <iframe class="image" -->
+				<!-- src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5299.313257308161!2d15.53303!3d48.386332!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbeb00ff3865c2ea3!2sWeingut%20Heuriger%20B%C3%A4uerl!5e0!3m2!1sde!2sat!4v1608654558275!5m2!1sde!2sat" -->
+				<!-- width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" -->
+				<!-- tabindex="0"></iframe> -->
+			<div class="image">
+				<img style="object-position: bottom;" src="map.jpg">
+			</div>
+
+			<div class="content">
+				<div class="box">
+					<p><span class="image right" style="height:200px;background:0;">&nbsp;<img
+								src="einfahrt.jpg" style="border-radius:10px;" alt="Einfahrt"></span>
+
+						<b>Weingut Wolfgang Bäuerl</b><br>
+						Oberloiben 28, 3601 Dürnstein, Austria</p>
+						<p><a target="_blank" href="https://goo.gl/maps/vtGhq3KrZ5BkM3CBA">Karte auf Google Maps anzeigen</a></p>
+					<a href="mailto:wein@baeuerl.at" class="icon fa-envelope"> &nbsp; wein@baeuerl.at</a><br>
+					<a href="tel:+43273275555" class="icon fa-phone"> &nbsp; +43 2732 75555</a><br>
+					<a href="tel:+4369912003331" class="icon fa-mobile"> &nbsp; +43 699 12003331</a><br>
+				</div>
+		</section>
+
+
+		{{ partial "template/footer" . }}
+
+	</div>
+
+	{{ template "_internal/google_analytics.html" . }}
+	{{ partial "template/scripts" . }}
+
+</body>
+
+</html>

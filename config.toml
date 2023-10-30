@@ -1,0 +1,14 @@
+baseURL = "https://baeuerl.at"
+canonifyURLs = true
+languageCode = "de-de"
+title = "Weingut Bäuerl"
+theme = "story"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+subtitle = "Wein, Lebensfreude & Gastfreundschaft in Loiben"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
