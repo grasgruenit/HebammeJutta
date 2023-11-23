@@ -36,3 +36,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 [Params.social]
 
 [Params.asset]
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/modal"
+
+[[params.plugins.js]]
+link = "js/modal.js"

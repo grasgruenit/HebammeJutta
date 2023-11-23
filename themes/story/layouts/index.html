@@ -145,6 +145,58 @@
 	{{ template "_internal/google_analytics.html" . }}
 	{{ partial "template/scripts" . }}
 
-</body>
+	<button class="btn btn-primary" data-modal-open>Click Me</button>
 
+	<div class="modal" data-modal>
+	  <div class="modal-overlay" data-modal-close data-modal-overlay></div>
+	  <div class="modal-content w-[1000px]">
+		<h2>Hey There!</h2>
+		<p>Have a good day.</p>
+		<button class="modal-close" data-modal-close>&times;</button>
+	  </div>
+	</div>
+</div>
+<script>
+	// accordion script
+(function () {
+  "use strict";
+
+  const openModalButtons = document.querySelectorAll("[data-modal-open]");
+  const closeModalButtons = document.querySelectorAll("[data-modal-close]");
+
+  function openModal(modal) {
+    if (modal === null) {
+      return null;
+    }
+    const overlay = modal.querySelector("[data-modal-overlay]");
+    modal.style.display = "block";
+    overlay.style.display = "block";
+  }
+
+  function closeModal(modal) {
+    if (modal === null) {
+      return null;
+    }
+    const overlay = modal.querySelector("[data-modal-overlay]");
+    modal.style.display = "none";
+    overlay.style.display = "none";
+  }
+
+  openModalButtons.forEach((button) => {
+    button.addEventListener("click", () => {
+      const modal = button.nextElementSibling;
+      openModal(modal);
+    });
+  });
+
+  closeModalButtons.forEach((button) => {
+    button.addEventListener("click", () => {
+      const modal = button.closest("[data-modal]");
+      closeModal(modal);
+    });
+  });
+})();
+
+</script>
+</body>
 </html>
