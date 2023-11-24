@@ -22,4 +22,6 @@ Termine: 9.1., 15.1., 22.1., 29.1., 7.2., 12.2.
 Die nächste **harmonische Babymassage** startet am Montag, den 29.1.2024  
 Termine: 29.1., 5.2., 14.2., 26.2.
 
+{{< anmeldung >}}
+
 {{</ modal >}}

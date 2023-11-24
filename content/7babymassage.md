@@ -33,4 +33,6 @@ Vier **Einheiten** jeweils **Montags** von 13.30-14.30 Uhr
 **Ort**: Veranstaltungsraum der Marktgemeinde beim Eltern Kind Zentrum im Pfarrweg 7, 6890 Lustenau  
 **Kosten**: Euro 90,-
 
+{{< anmeldung >}}
+
 {{</ modal >}}

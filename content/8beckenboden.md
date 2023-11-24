@@ -16,4 +16,4 @@ Im Kurs kannst du lernen deinen Beckenboden und seine Kraft zu spüren und ihn z
 **Ort**: Veranstaltungsraum der Marktgemeinde beim Eltern Kind Zentrum im Pfarrweg 7, 6890 Lustenau  
 **Kosten**: Euro 120,-
 
-Link zur Anmeldung: https://wehinger.hebamio.at/anmeldung
+{{< anmeldung >}}

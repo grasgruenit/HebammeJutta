@@ -12,5 +12,5 @@ Bei diesem Erstberatungsgespräch werden Themen wie, gesundheitsförderndes Verh
 
 Die Mutter Kind Pass Beratung dauert 1 Stunde und kostet € 50,-. Dieser Betrag wird von der Krankenkasse rückerstattet. Sollte der Termin über die Stunde hinausgehen, so kommt mein regulärer Stundensatz (80€) zur Anwendung.
 
-Link zur Anmeldung: https://wehinger.hebamio.at/anmeldung
+{{< anmeldung >}}
 

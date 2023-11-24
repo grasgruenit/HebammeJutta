@@ -20,6 +20,6 @@ Montags von 19-20.30 Uhr
 
 **Kosten**: Euro 260,-
 
-Link zur Anmeldung: https://wehinger.hebamio.at/anmeldung
+{{< anmeldung >}}
 
 {{</ modal >}}
