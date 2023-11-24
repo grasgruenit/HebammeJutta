@@ -13,8 +13,7 @@
 		  
 		<section class="banner {{ .Params.style }} orient-{{ .Params.orient }} content-align-left image-position-{{ .Params.imagepos }} onload-image-fade-in onload-content-fade-right">
 			<div class="content">
-				<a href="/" title="Startseite" ><img src="../logo.jpg" style="max-width:250px;"></a>
-				<br><br>
+				
 				{{ with .Title }}<h1>{{.}}</h1>{{end}}
 				
 				<p>{{ .Content }}</p>
@@ -26,7 +25,7 @@
 
     {{ range sort (where .Data.Pages "Section" .Section ) "File.Path" }}
 		<section class="spotlight {{ .Params.style }} orient-{{ .Params.orient }} content-align-left image-position-{{ .Params.imagepos }} onload-image-fade-in">
-			<div class="content">
+			<div class="content" style="background-color:#{{ .Params.bgcolor }}">
 				{{ if isset .Params "title" }}<h2>{{ .Title }}</h2>{{ end }}
 				<p>{{ .Content }}</p>
 			</div>
@@ -62,16 +61,7 @@
 										<label for="message">Nachricht</label>
 										<textarea name="message" id="message" rows="6"></textarea>
 									</div>
-									<div class="field">
-										<input type="checkbox" id="newsletter" name="newsletter" />
-										<label for="newsletter">Ja, schicken Sie mir bitte Ihren Newsletter
-										</label>
-									</div>
-									<div class="field">
-										<input type="checkbox" id="preisliste" name="preisliste" />
-										<label for="preisliste">Ja, schicken Sie mir bitte eine Preisliste Ihrer Weine
-										</label>
-									</div>
+																	
 									<div class="field">
 										<input type="checkbox" id="datenschutz" name="datenschutz" required="required" />
 										<label for="datenschutz">Ja, ich habe die <a href="datenschutz">Datenschutzerklärung</a> gelesen und erkläre mich damit einverstanden

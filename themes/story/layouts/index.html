@@ -17,17 +17,19 @@
 
 		<!-- Banner -->
 		<section
-			class="banner style1 orient-left content-align-left image-position-center fullscreen onload-content-fade-right">
+			class="banner style3 orient-left content-align-left image-position-center fullscreen onload-content-fade-right">
 			<div class="content">
 				{{ with .Site.Title }}<h1>{{.}}</h1>{{end}}
 				{{ with .Site.Params.subtitle }}<p class="major">{{.}}</p>{{end}}
 
 				{{ .Content }}
 				<p>&nbsp;</p>
+				<a href="infos" class="button icon fa-chevron-right">Weitere Infos</a></li>
 			</div>
 			<div class="image">
 				<img src="{{ .Params.image }}.jpg" alt="Portrait Jutta Wehinger" />
 			</div>
+
 		</section>
 
 		{{ range sort (where .Data.Pages "Section" "") "File.Path" }}
@@ -39,7 +41,7 @@
 		<section
 			class="spotlight {{ .Params.style }} orient-{{ .Params.orient }} content-align-left image-position-{{ .Params.imagepos }} "
 			id="{{ .Params.link }}">
-			<div class="content">
+			<div class="content" style="background-color:#{{ .Params.bgcolor }}">
 				<h2>{{ .Title }}</h2>
 				<p>{{ .Content }}</p>
 				
@@ -78,16 +80,7 @@
 										<label for="message">Nachricht *</label>
 										<textarea name="message" id="message" rows="6"></textarea>
 									</div>
-									<div class="field">
-										<input type="checkbox" id="newsletter" name="newsletter" />
-										<label for="newsletter">Ja, schicken Sie mir bitte Ihren Newsletter
-										</label>
-									</div>
-									<div class="field">
-										<input type="checkbox" id="preisliste" name="preisliste" />
-										<label for="preisliste">Ja, schicken Sie mir bitte eine Preisliste Ihrer Weine
-										</label>
-									</div>
+									
 									<div class="field">
 										<input type="checkbox" id="datenschutz" name="datenschutz" required="required" />
 										<label for="datenschutz">Ja, ich habe die <a href="datenschutz">Datenschutzerklärung</a> gelesen und erkläre mich damit einverstanden
@@ -106,28 +99,6 @@
 			</div>
 		</section>
 
-		<section class="banner style1" id="Anfahrt">
-			<!-- <iframe class="image" -->
-				<!-- src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5299.313257308161!2d15.53303!3d48.386332!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbeb00ff3865c2ea3!2sWeingut%20Heuriger%20B%C3%A4uerl!5e0!3m2!1sde!2sat!4v1608654558275!5m2!1sde!2sat" -->
-				<!-- width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" -->
-				<!-- tabindex="0"></iframe> -->
-			<div class="image">
-				<img style="object-position: bottom;" src="map.jpg">
-			</div>
-
-			<div class="content">
-				<div class="box">
-					<p><span class="image right" style="height:200px;background:0;">&nbsp;<img
-								src="einfahrt.jpg" style="border-radius:10px;" alt="Einfahrt"></span>
-
-						<b>Weingut Wolfgang Bäuerl</b><br>
-						Oberloiben 28, 3601 Dürnstein, Austria</p>
-						<p><a target="_blank" href="https://goo.gl/maps/vtGhq3KrZ5BkM3CBA">Karte auf Google Maps anzeigen</a></p>
-					<a href="mailto:wein@baeuerl.at" class="icon fa-envelope"> &nbsp; wein@baeuerl.at</a><br>
-					<a href="tel:+43273275555" class="icon fa-phone"> &nbsp; +43 2732 75555</a><br>
-					<a href="tel:+4369912003331" class="icon fa-mobile"> &nbsp; +43 699 12003331</a><br>
-				</div>
-		</section>
 
 
 		{{ partial "template/footer" . }}
