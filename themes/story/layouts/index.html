@@ -19,20 +19,14 @@
 		<section
 			class="banner style1 orient-left content-align-left image-position-center fullscreen onload-content-fade-right">
 			<div class="content">
-				<a href="../" title="Startseite" ><img src="logo.jpg" style="max-width:250px;"></a>
-				<br><br>
 				{{ with .Site.Title }}<h1>{{.}}</h1>{{end}}
 				{{ with .Site.Params.subtitle }}<p class="major">{{.}}</p>{{end}}
 
 				{{ .Content }}
 				<p>&nbsp;</p>
-				<ul class="actions stacked">
-					<li><a href="#unser-weingut"
-							class="button large wide smooth-scroll-middle icon fa-arrow-down">scroll</a></li>
-				</ul>
 			</div>
 			<div class="image">
-				<img src="{{ .Params.image }}.jpg" alt="Martina und Wolfgang Bäuerl" />
+				<img src="{{ .Params.image }}.jpg" alt="Portrait Jutta Wehinger" />
 			</div>
 		</section>
 
@@ -48,9 +42,7 @@
 			<div class="content">
 				<h2>{{ .Title }}</h2>
 				<p>{{ .Content }}</p>
-				<ul class="actions stacked">
-					<li><a href="{{ .Params.link }}" class="button icon fa-chevron-right"> Weiterlesen</a></li>
-				</ul>
+				
 			</div>
 			<div class="image">
 				<img src="{{ .Params.image }}.jpg" alt="" />
