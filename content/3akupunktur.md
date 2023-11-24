@@ -1,6 +1,6 @@
 ---
 title: Akupunktur
-image: aku
+image: akupunktur
 orient: left
 imagepos: center
 style: style1
@@ -8,15 +8,15 @@ style: style1
 
 ---
 
-asdfasdf
+in Ausbildung.
 
-{{< modal btn-label="Infos" body-class="w-[1000px]" >}}
+Die Akupunktur ist eine gute Lösung ohne Nebenwirkungen für Beschwerden in der Schwangerschaft. Idealerweise ergänzen sich Akupunktur und Schulmedizin. Die Traditionelle Chinesische Medizin bietet außerdem noch andere Therapievarianten, von denen ich Schröpfen, Moxa und Gua Sha anbiete.
+Akupunktur in der Schwangerschaft und im Wochenbett:
 
-6 **Einheiten**, davon 4 Frauenabende und 2 Abende mit Partner  
-Montags von 19-20.30 Uhr
-
-**Ort**: Veranstaltungsraum der Marktgemeinde beim Eltern Kind Zentrum im Pfarrweg 7, 6890 Lustenau
-
-**Kosten**: Euro 260,-
-
-{{</ modal >}}
+- Übelkeit
+- Rückenschmerzen, Ischiasschmerzen
+- Beckenendlage (damit sich das Kind dreht)
+- Kopfschmerzen und Migräne
+- Geburtsvorbereitend
+- Geburtseinleitend (nach dem errechneten Termin)
+- Stillproblemen
