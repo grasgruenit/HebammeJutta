@@ -6,7 +6,7 @@ theme = "story"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
-subtitle = "Vor und nach der Geburt: Deine Reise mit einer Hebamme voller Fürsorge und Erfahrung in Dornbirn, Lustenau und Umgebung."
+subtitle = "Hebamme mit Herz für deine neue Lebensphase in der Schwangerschaft und nach der Geburt in Dornbirn, Lustenau und Umgebung."
 
 [markup]
   [markup.goldmark]

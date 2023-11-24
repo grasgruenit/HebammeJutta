@@ -12,5 +12,5 @@ Seit 2008 gebe ich Geburtsvorbereitungskurse und Beckenbodentrainingskurse, seit
 
 
 
-**Hebammenordination in Lustenau**  
+**Hebammenpraxis in Lustenau**  
 Ich teile mir die Räumlichkeiten mit Natalie und Philipp Storf, der [Osteopathie und Physiotherapie Storf](http://osteopathie-storf.at). Natalie ist mit der Osteopathie auf Schwangere und Neugeborene spezialisiert, daher ergänzen wir uns perfekt.  

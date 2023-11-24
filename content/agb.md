@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Datenschutzerklärung"
+title = "AGB"
 hidden = true
 +++
 
