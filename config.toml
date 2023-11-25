@@ -8,6 +8,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [params]
 subtitle = "Hebamme mit Herz für deine neue Lebensphase in der Schwangerschaft und nach der Geburt in Dornbirn, Lustenau und Umgebung."
 
+[Params.social]
+  name = "instagram"
+  url = "https://www.instagram.com/hebamme_jutta/"
+  
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
