@@ -4,7 +4,7 @@ image: bauchstiefel
 orient: left
 imagepos: center
 style: style1
-author: 2
+order: 2
 
 ---
 

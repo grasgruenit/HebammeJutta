@@ -5,6 +5,7 @@ orient: right
 imagepos: center
 style: style1
 bgcolor: f0d9e9
+order: 3
 
 ---
 

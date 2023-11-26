@@ -5,7 +5,7 @@ orient: right
 imagepos: center
 style: style1
 bgcolor: bcdbb3
-author: 1
+order: 1
 ---
 Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im Dezember 2023, Jänner und Februar 2024.
 

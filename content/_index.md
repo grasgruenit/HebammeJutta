@@ -5,7 +5,7 @@ orient: right
 imagepos: center
 style: style3
 link: infos
-author: 0
+order: 0
 
 ---
 Mein Herz hat mich zu meinem Wunschberuf geführt. Schon früh hatte ich eine besondere Verbindung zu Kindern und Babys. Frischgebackenen Eltern zu helfen in ihre neue Rolle hineinzuwachsen, stellt mich fast täglich vor neue Herausforderungen, denen ich mich mit großer Begeisterung und mit viel Herz widme. Diese Arbeit macht mich glücklich.
