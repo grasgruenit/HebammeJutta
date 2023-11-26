@@ -8,8 +8,6 @@ bgcolor: bcdbb3
 ---
 Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im Dezember 2023, Jänner und Februar 2024.
 
-Test
-
 Es gibt noch freie Plätze im Geburtsvorbereitungskurs, Beckenbodentraining und Babymassage.
 
 {{< modal btn-label="Termine" body-class="w-\[1000px]" >}}
