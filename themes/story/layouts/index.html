@@ -33,6 +33,9 @@
 		</section>
 
 		{{ range sort (where .Data.Pages "Section" "") "Params.Order" }}
+		{{ if eq .Params.hidden true }}
+
+		{{ else }}
 
 
 		<section
@@ -47,6 +50,7 @@
 				<img src="{{ .Params.image }}.jpg" alt="" />
 			</div>
 		</section>
+		{{ end }}
 		{{ end }}
 
 		<section class="wrapper style1 align-center">

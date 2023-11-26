@@ -5,7 +5,7 @@ orient: right
 imagepos: center
 style: style1
 bgcolor: bcdbb3
-
+order: 7
 ---
 
 Für eine schnellere Wundheilung biete ich die Softlasertherapie an. 
