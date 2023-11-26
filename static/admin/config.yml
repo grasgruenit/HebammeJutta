@@ -19,9 +19,9 @@ collections:
       - { label: 'Style', name: 'style', widget: 'string' }
       - { label: 'Hintergrund', name: 'bgcolor', widget: 'string' }
       - { label: 'Inhalt', name: 'body', widget: 'markdown' }
-  - name: 'info'
-    label: 'Info zu mir'
-    folder: 'content/info'
+  - name: 'infos'
+    label: 'Infos zu mir'
+    folder: 'content/infos'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
