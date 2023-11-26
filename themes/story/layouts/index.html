@@ -20,7 +20,7 @@
 			class="banner style3 orient-left content-align-left image-position-center fullscreen onload-content-fade-right">
 			<div class="content">
 				{{ with .Site.Title }}<h1>{{.}}</h1>{{end}}
-				{{ with .Site.Params.subtitle }}<p class="major">{{.}}</p>{{end}}
+				{{ with .Title }}<p class="major">{{.}}</p>{{end}}
 
 				{{ .Content }}
 				<p>&nbsp;</p>

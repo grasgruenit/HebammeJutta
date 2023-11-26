@@ -1,5 +1,5 @@
 ---
-title: "Vor und nach der Geburt: Deine Reise mit einer Hebamme voller Fürsorge und Erfahrung"
+title: "Hebamme mit Herz für deine neue Lebensphase in der Schwangerschaft und nach der Geburt in Dornbirn, Lustenau und Umgebung."
 image: jutta
 orient: right
 imagepos: center

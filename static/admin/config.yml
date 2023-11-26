@@ -19,3 +19,18 @@ collections:
       - { label: 'Style', name: 'style', widget: 'string' }
       - { label: 'Hintergrund', name: 'bgcolor', widget: 'string' }
       - { label: 'Inhalt', name: 'body', widget: 'markdown' }
+  - name: 'info'
+    label: 'Info zu mir'
+    folder: 'content/info'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Titel', name: 'title', widget: 'string' }
+      - { label: 'Bild', name: 'image', widget: 'string' }
+      - { label: 'Ausrichtung', name: 'orient', widget: 'string' }
+      - { label: 'BildPos', name: 'imagepos', widget: 'string' }
+      - { label: 'Style', name: 'style', widget: 'string' }
+      - { label: 'Hintergrund', name: 'bgcolor', widget: 'string' }
+      - { label: 'Inhalt', name: 'body', widget: 'markdown' }      
