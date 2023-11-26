@@ -3,13 +3,11 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 media_folder: content
 public_folder: /
-sortable_fields: ['title', 'order']
 collections:
   - name: 'sections'
-    label: 'Bereiche'
+    label: 'Hauptseite'
     folder: 'content'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: true
     fields:
@@ -22,6 +20,7 @@ collections:
       - { label: 'Reihung', name: 'order', widget: 'number' }
       - { label: 'Versteckt', name: 'hidden', widget: 'boolean' }
       - { label: 'Inhalt', name: 'body', widget: 'markdown' }
+    sortable_fields: ['title', 'order']
   - name: 'infos'
     label: 'Infos zu mir'
     folder: 'content/infos'
