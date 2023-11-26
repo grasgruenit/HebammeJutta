@@ -4,7 +4,7 @@ image: massage
 orient: left
 imagepos: center
 style: style1
-bgcolor: " "
+bgcolor: "  "
 order: 8
 hidden: false
 ---
@@ -29,9 +29,11 @@ Harmonische **Babymassage** für
 * Gefühl der Beachtung seiner Bedürfnisse (Vertrauen)
 * größeres Selbstwertgefühl
 
-Vier **Einheiten** jeweils **Montags** von 13.30-14.30 Uhr\
-**Ort**: Veranstaltungsraum der Marktgemeinde beim Eltern Kind Zentrum im Pfarrweg 7, 6890 Lustenau\
+Vier **Einheiten** jeweils **montags** von 13.30-14.30 Uhr\
+**Ort**: Veranstaltungsraum der Marktgemeinde Lustenau beim Eltern Kind Zentrum im Pfarrweg 7, 6890 Lustenau\
 **Kosten**: Euro 90,-
+
+Die nächsten Termine findest du weiter oben unter "Aktuell"
 
 {{< anmeldung >}}
 
