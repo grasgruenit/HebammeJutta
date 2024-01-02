@@ -10,7 +10,7 @@ hidden: false
 ---
 aktuell noch in Ausbildung. Auf Wunsch kann ich es für bestimmte Bereiche schon anbieten.
 
-Die Akupunktur ist eine gute Lösung ohne Nebenwirkungen für Beschwerden in der Schwangerschaft. Idealerweise ergänzen sich Akupunktur und Schulmedizin. Die Traditionelle Chinesische Medizin bietet außerdem noch andere Therapievarianten, von denen ich Schröpfen, Moxa und Gua Sha anbiete.
+Die Akupunktur ist eine gute Lösung ohne Nebenwirkungen für Beschwerden in der Schwangerschaft. Idealerweise ergänzen sich Akupunktur und Schulmedizin. Die Traditionelle Chinesische Medizin bietet außerdem noch andere Therapievarianten, von denen ich Schröpfen, Schröpfmassage, Moxa und Gua Sha anbiete.
 Akupunktur in der Schwangerschaft und im Wochenbett:
 
 * Übelkeit
