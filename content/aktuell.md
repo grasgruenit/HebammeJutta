@@ -14,14 +14,38 @@ Hier sind die Termine für die kommenden Kurse für Geburtsvorbereitung, Beckenb
 
 {{< modal btn-label="Termine" body-class="w-\[1000px]" >}}
 
-Das nächste **Beckenbodentraining** startet am Montag, den 22.1.2024\
-Termine: 22.1., 29.1., 5.2., 12.2., 19.2., 26.2.
+Das nächste **Beckenbodentraining** startet am Montag, den 8.4.2024\
+Termine: 8.4., 15.4., 22.4., 29.4., 6.5., 13.5.
 
-Der nächste **Geburtsvorbereitungskurs** startet am Dienstag, den 9.1.2024\
-Termine: 9.1., 15.1., 22.1., 29.1., 7.2., 12.2.
+Nächste Kurse: 
+
+3.6.24, 10.6., 17.6., 24.6., 1.7., 8.7.
+
+23.9.24, 30.9., 7.10., 14.10., 21.10., 28.10.
+
+Der nächste **Geburtsvorbereitungskurs** startet am Dienstag, 5.3.2024\
+Termine: 5.3., 11.3., 18.3., 9.4., 15.4., 22.4.
+
+Nächste Kurse: 
+
+27.5.24, 3.6., 10.6., 17.6., 24.6., 2.7.
+
+16.9.24, 23.9., 30.9., 7.10., 14.10., 21.10.
+
+4.11.24, 11.11., 25.11., 2.12., 9.12., 16.12.
 
 Die nächste **harmonische Babymassage** startet am Montag, den 29.1.2024\
 Termine: 29.1., 5.2., 14.2., 26.2.
+
+Nächste Termine:
+
+22.4.24, 29.4., 6.5., 13.5.
+
+10.6.24, 17.6., 24.6., 1.7.
+
+30.9.24, 7.10., 14.10., 21.10.
+
+25.11.24, 2.12., 9.12., 16.12.
 
 {{< anmeldung >}}
 
