@@ -14,14 +14,11 @@ Gönne deinem Baby 4 Wellnesseinheiten für eine gute Eltern-Kind-Bindung. Nimm 
 
 Harmonische **Babymassage** für 
 
-* eine größere Dichte der Gehirnzellen  
-* höhere Entwicklungsscores bei Tests  
+* eine größere Dichte der Gehirnzellen   
 * höherer IQ
 * geringere Zahl von Schreiphasen
-* besserer Muskeltonus
 * bessere Koordinationsfähigkeit
 * bessere Hand - Augen - Mund - Koordination
-* geringere Anzahl von Apnoe
 * größere Aktivität
 * Stärkung des Immunsystems
 * besseres Bonding beider Elternteile
