@@ -10,6 +10,8 @@ hidden: false
 ---
 Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im Februar, März und April 2024.
 
+URLAUB: Ich bin von 17.8. - 8.9.24 nicht erreichbar.
+
 Hier sind die Termine für die kommenden Kurse für Geburtsvorbereitung, Beckenbodentraining und Babymassage.
 
 {{< modal btn-label="Termine" body-class="w-\[1000px]" >}}
