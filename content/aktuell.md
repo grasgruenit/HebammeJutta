@@ -8,7 +8,7 @@ bgcolor: bcdbb3
 order: 1
 hidden: false
 ---
-Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im März, April und Mai 2024.
+Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im April, Mai und Juni 2024.
 
 URLAUB: Ich bin von 17.8. - 8.9.24 nicht erreichbar.
 
@@ -22,7 +22,7 @@ Termine: 8.4., 15.4., 22.4., 29.4., 6.5., 13.5.
 Nächste Kurse: 3.6.24, 10.6., 17.6., 24.6., 1.7., 8.7.; **Kurs**: 23.9.24, 30.9., 7.10., 14.10., 21.10., 28.10.
 
 Der nächste **Geburtsvorbereitungskurs** startet am Dienstag, 27.5.2024\
-Termine: 27.5.24, 3.6., 10.6., 17.6., 24.6., 2.7. Der Kurs ist voll! Jetzt gibt es eine Warteliste für einen Intensivkurs Sa/So im Juli 2024. 
+Termine: 27.5.24, 3.6., 10.6., 17.6., 24.6., 2.7. Der Kurs ist voll! NEU geplant: Weekend-Crashkurs Sa/So im Juli 2024. 
 
 Nächste Kurse: 16.9.24, 23.9., 30.9., 7.10., 14.10., 21.10.; **Kurs**: 4.11.24, 11.11., 25.11., 2.12., 9.12., 16.12.
 
