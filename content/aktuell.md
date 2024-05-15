@@ -17,7 +17,7 @@ Hier sind die Termine für die kommenden Kurse für Geburtsvorbereitung, Beckenb
 {{< modal btn-label="Termine" body-class="w-\[1000px]" >}}
 
 Der nächste **Geburtsvorbereitungskurs** startet am Dienstag, 27.5.2024\
-Termine: 27.5.24, 3.6., 10.6., 17.6., 24.6., 2.7. Der Kurs ist voll! NEU: Weekend-Crashkurs am 3.+4.8.2024, Anmeldungen sind jetzt möglich.
+Termine: 27.5.24, 3.6., 10.6., 17.6., 24.6., 2.7. Noch ein Platz frei! NEU: Weekend-Crashkurs am 3.+4.8.2024, Anmeldungen sind jetzt möglich.
 
 Nächste Kurse: 16.9.24, 23.9., 30.9., 7.10., 14.10., 21.10.; **Kurs**: 4.11.24, 11.11., 25.11., 2.12., 9.12., 16.12.
 
