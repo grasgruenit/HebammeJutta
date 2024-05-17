@@ -12,16 +12,16 @@ Gönne deinem Baby 4 Wellnesseinheiten für eine gute Eltern-Kind-Bindung. Nimm 
 
 {{< modal btn-label="Infos" body-class="w-\[1000px]" >}} 
 
-Harmonische **Babymassage** für 
+Die Harmonische **Babymassage sorgt** für 
 
 * eine größere Dichte der Gehirnzellen   
-* höherer IQ
+* höheren IQ
 * geringere Zahl von Schreiphasen
-* Stress abbauen
+* Stressabbau
 * Stärkung des Immunsystems
 * größeres Wohlbehagen
 * Gefühl der Beachtung seiner Bedürfnisse (Vertrauen)
-* Entwicklung fördern
+* Förderung der Entwicklung
 
 Vier **Einheiten** jeweils **montags** von 13.30-14.30 Uhr\
 **Ort**: Veranstaltungsraum der Marktgemeinde Lustenau beim Eltern Kind Zentrum im Pfarrweg 7, 6890 Lustenau\
