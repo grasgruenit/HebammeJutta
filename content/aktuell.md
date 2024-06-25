@@ -8,13 +8,13 @@ bgcolor: bcdbb3
 order: 1
 hidden: false
 ---
-Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im Juni, Juli und September 2024. ACHTUNG: im Oktober bin ich bereits ausgebucht.
+Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im Juli und September 2024. ACHTUNG: im Oktober bin ich bereits ausgebucht.
 
 URLAUB: 
 
 Von 17.8. - 8.9.24 bin ich nicht erreichbar. 
 
-Von 24.12.24 - 6.1.25 bin ich nur telefonisch erreichbar.
+Von 24.12.24 - 6.1.25 bin ich telefonisch erreichbar.
 
 Hier sind die Termine für die kommenden Kurse für Geburtsvorbereitung, Beckenbodentraining und Babymassage.
 
