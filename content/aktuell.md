@@ -8,7 +8,7 @@ bgcolor: bcdbb3
 order: 1
 hidden: false
 ---
-Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im Juli und September 2024. ACHTUNG: im Oktober bin ich bereits ausgebucht.
+Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im September, November und Dezember 2024. ACHTUNG: im Oktober bin ich bereits ausgebucht.
 
 URLAUB: 
 
