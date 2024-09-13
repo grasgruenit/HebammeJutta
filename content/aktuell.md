@@ -12,8 +12,6 @@ Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechn
 
 URLAUB: 
 
-Von 17.8. - 8.9.24 bin ich nicht erreichbar. 
-
 Von 24.12.24 - 6.1.25 bin ich telefonisch erreichbar.
 
 Hier sind die Termine für die kommenden Kurse für Geburtsvorbereitung, Beckenbodentraining und Babymassage.
@@ -35,8 +33,6 @@ Die nächste **harmonische Babymassage** startet am Montag, den 30.9.24\
 Termine: 30.9.24, 7.10., 14.10., 21.10.
 
 **nächste Kurse:** 25.11.24, 2.12., 9.12., 16.12. **Kurs:** 17.2.25, 24.2., 3.3., 10.3.
-
-
 
 {{< anmeldung >}}
 
