@@ -16,11 +16,11 @@ Hier sind die Termine für die kommenden Kurse für Geburtsvorbereitung, Beckenb
 
 {{< modal btn-label="Termine" body-class="w-\[1000px]" >}}
 
-Der nächste **Geburtsvorbereitungskurs** startet am 4.11.24
+Der nächste **Geburtsvorbereitungskurs** startet am 7.12.24
 
-Termine: 4.11.24, 11.11., 25.11., 2.12., 9.12., 16.12. Dieser Kurs ist voll.
+Termine: 7. und 8.12.24 Weekend Crash Kurs
 
-**nächste Kurse**: Weekend Crash Kurs 7.+8. 12.24, 10-13 Uhr **Kurs:** 27.1.25, 3.2., 10.2., 17.2., 24.2., 3.3. **Kurs:** 31.3.25, 7.4., 14.4., 28.4., 5.5., 12.5. 
+**nächste Kurse**:  27.1.25, 3.2., 10.2., 17.2., 24.2., 3.3. **Kurs:** 31.3.25, 7.4., 14.4., 28.4., 5.5., 12.5. 
 
 Das nächste **Beckenbodentraining** startet am Montag, den 3.2.25\
 Termine: 3.2.25, 10.2., 17.2., 24.2., 3.3., 10.3.
