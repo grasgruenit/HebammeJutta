@@ -12,7 +12,7 @@ Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechn
 
 URLAUB:  von 24.12.24 - 6.1.25 bin aber telefonisch erreichbar.
 
-\    von 2.8. - 26.8.25 bin ich nicht erreichbar.
+URLAUB: von 2.8. - 26.8.25 in dieser Zeit bin ich nicht erreichbar.
 
 Hier sind die Termine für die kommenden Kurse für Geburtsvorbereitung, Beckenbodentraining und Babymassage.
 
