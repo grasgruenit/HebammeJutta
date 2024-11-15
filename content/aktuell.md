@@ -8,7 +8,7 @@ bgcolor: bcdbb3
 order: 1
 hidden: false
 ---
-Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im November und Dezember 2024. ACHTUNG: im Jänner 2025 bin ich bereits ausgebucht.
+Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im  Dezember 2024 und im Februar 2025. ACHTUNG: im Jänner 2025 bin ich bereits ausgebucht.
 
 URLAUB:  von 24.12.24 - 6.1.25 bin aber telefonisch erreichbar.
 
