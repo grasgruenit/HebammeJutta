@@ -27,10 +27,10 @@ Termine: 7. und 8.12.24 Weekend Crash Kurs
 Das nächste **Beckenbodentraining** startet am Montag, den 3.2.25\
 Termine: 3.2.25, 10.2., 17.2., 24.2., 3.3., 10.3.
 
-**nächste Kurse**: 28.4.25, 5.5., 12.5., 19.5., 26.5., 3.6.  **Kurs:** 22.9.25, 29.9., 6.10., 13.10., 20.10., 4.11. 
+**nächste Kurse**: 28.4.25, 5.5., 12.5., 19.5., 26.5., 3.6.  
 
 Die nächste **harmonische Babymassage** startet am Montag, den 25.11.24\
-Termine: 25.11.24, 2.12., 9.12., 16.12.
+Termine: 25.11.24, 2.12., 9.12., 16.12., der Kurs ist ausgebucht.
 
 **nächste Kurse:** 17.2.25, 24.2., 3.3., 10.3. **Kurs:** 5.5.25, 12.5., 19.5., 26.5.
 
