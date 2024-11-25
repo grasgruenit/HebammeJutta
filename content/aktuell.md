@@ -8,9 +8,9 @@ bgcolor: bcdbb3
 order: 1
 hidden: false
 ---
-Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im  Dezember 2024 und im Februar 2025. ACHTUNG: im Jänner 2025 bin ich bereits ausgebucht.
+Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im  Dezember 2024, im Februar und März 2025. ACHTUNG: im Jänner 2025 bin ich bereits ausgebucht.
 
-URLAUB:  von 24.12.24 - 6.1.25 bin aber telefonisch erreichbar.
+URLAUB:  von 23.12.24 - 6.1.25 bin aber telefonisch erreichbar.
 
 URLAUB: von 2.8. - 26.8.25 in dieser Zeit bin ich nicht erreichbar.
 
@@ -29,10 +29,11 @@ Termine: 3.2.25, 10.2., 17.2., 24.2., 3.3., 10.3.
 
 **nächste Kurse**: 28.4.25, 5.5., 12.5., 19.5., 26.5., 3.6.  
 
-Die nächste **harmonische Babymassage** startet am Montag, den 25.11.24\
-Termine: 25.11.24, 2.12., 9.12., 16.12., der Kurs ist ausgebucht.
+Die nächste **harmonische Babymassage** startet am Montag, den 17.2.25\
+Termine: 17.2.25, 24.2., 3.3., 10.3.
 
-**nächste Kurse:** 17.2.25, 24.2., 3.3., 10.3. **Kurs:** 5.5.25, 12.5., 19.5., 26.5.
+**nächste Kurse:** 
+5.5.25, 12.5., 19.5., 26.5.  **Kurs:** 29.9.25, 6.10., 13.10., 20.10.
 
 {{< anmeldung >}}
 
