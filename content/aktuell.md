@@ -10,21 +10,27 @@ hidden: false
 ---
 Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin  im Februar, März und April 2025. 
 
-URLAUB: von 2.8. - 26.8.25 in dieser Zeit bin ich nicht erreichbar.
+URLAUB:  von 18.6. - 22.6.25 in dieser Zeit bin ich telefonisch erreichbar.
+
+\    von 18.7. - 21.7.25 in dieser Zeit bin ich telefonisch erreichbar.
+
+\    von 2.8. - 27.8.25 in dieser Zeit bin ich nicht erreichbar.
 
 Hier sind die Termine für die kommenden Kurse für Geburtsvorbereitung, Beckenbodentraining und Babymassage.
 
 {{< modal btn-label="Termine" body-class="w-\[1000px]" >}}
 
-Der nächste **Geburtsvorbereitungskurs** startet am 27.1.25
+Der nächste **Geburtsvorbereitungskurs** startet am 31.3.25
 
-Termine: 27.1.25, 3.2., 10.2., 17.2., 24.2., 3.3.
+Termine: 
+31.3.25, 7.4., 14.4., 28.4., 5.5., 12.5. 
 
-**nächste Kurse**: 31.3.25, 7.4., 14.4., 28.4., 5.5., 12.5.  **Kurs:** 19.5.25, 26.5., 2.6., 16.6., 23.6., 30.6. 
+**nächste Kurse**: 19.5.25, 26.5., 2.6., 16.6., 23.6., 30.6.  **Kurs:** 15.9.25, 22.9., 29.9., 6.10., 13.10., 20.10. 
 
-Das nächste **Beckenbodentraining** startet am Montag, den 3.2.25. Dieser Kurs ist ausgebucht.
+Das nächste **Beckenbodentraining** startet am Montag, den 28.4.25
+Termine:  28.4.25, 5.5., 12.5., 19.5., 26.5., 3.6.
 
-**nächster Kurs**: 28.4.25, 5.5., 12.5., 19.5., 26.5., 3.6.  **Kurs:** 22.9.25, 29.9., 6.10., 13.10., 20.10., 4.11. 
+**nächster Kurs**: 22.9.25, 29.9., 6.10., 13.10., 20.10., 4.11.
 
 Die nächste **harmonische Babymassage** startet am Montag, den 17.2.25\
 Termine: 17.2.25, 24.2., 3.3., 10.3.
