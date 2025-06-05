@@ -8,7 +8,7 @@ bgcolor: bcdbb3
 order: 1
 hidden: false
 ---
-Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im Juni, Juli und September 2025. 
+Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im Juli, September und Oktober 2025. 
 
 URLAUB:  von 18.6. - 22.6. + von 18.7. - 21.7.25 und telefonisch erreichbar.
 
