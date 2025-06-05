@@ -20,9 +20,7 @@ Hier sind die Termine für die kommenden Kurse für Geburtsvorbereitung, Beckenb
 
 {{< modal btn-label="Termine" body-class="w-\[1000px]" >}}
 
-Der nächste **Geburtsvorbereitungskurs** startet am 15.9.25
-
-Termine: 15.9.25, 22.9., 29.9., 6.10., 13.10., 20.10. **Kurs**: 15.9.25, 22.9., 29.9., 6.10., 13.10., 20.10.  **Kurs:** 3.11.25, 10.11., 17.11., 24.11., 1.12., 
+Der nächste **Geburtsvorbereitungskurs** startet am Montag, den 15.9.25 Termine: 15.9.25, 22.9., 29.9., 6.10., 13.10., 20.10. **Kurs**: 15.9.25, 22.9., 29.9., 6.10., 13.10., 20.10.  **Kurs:** 3.11.25, 10.11., 17.11., 24.11., 1.12., 
 15.12. **Kurs**: 19.1.26, 26.1., 2.2., 9.2., 16.2., 23.2.
 
 Das nächste **Beckenbodentraining** startet am Montag, den 22.9.25
