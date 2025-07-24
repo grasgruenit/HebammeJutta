@@ -14,6 +14,8 @@ URLAUB:  von 2.8. - 27.8.25 in dieser Zeit bin ich nicht erreichbar.
 
 Urlaub: von 24.12.25 - 6.1.26 telefonische Betreuung in dieser Zeit.
 
+Urlaub: Juli 2026
+
 Hier sind die Termine für die kommenden Kurse für Geburtsvorbereitung, Beckenbodentraining und Babymassage.
 
 {{< modal btn-label="Termine" body-class="w-\[1000px]" >}}
