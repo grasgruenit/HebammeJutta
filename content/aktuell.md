@@ -8,13 +8,11 @@ bgcolor: bcdbb3
 order: 1
 hidden: false
 ---
-Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im Juli, September und Oktober 2025. 
-
-URLAUB:  von 2.8. - 27.8.25 in dieser Zeit bin ich nicht erreichbar.
+Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im September, Oktober und November 2025. 
 
 Urlaub: von 24.12.25 - 6.1.26 telefonische Betreuung in dieser Zeit.
 
-Urlaub: Juli 2026
+Urlaub: August 2026
 
 Hier sind die Termine für die kommenden Kurse für Geburtsvorbereitung, Beckenbodentraining und Babymassage.
 
