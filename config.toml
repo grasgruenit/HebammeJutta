@@ -1,12 +1,27 @@
 baseURL = "https://hebammejutta.at"
 canonifyURLs = true
-languageCode = "de-de"
-title = "Hebamme Jutta Wehinger"
 theme = "story"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 
-[params]
-subtitle = "Hebamme mit Herz für deine neue Lebensphase in der Schwangerschaft und nach der Geburt in Dornbirn, Lustenau und Umgebung."
+defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = true
+
+[languages]
+	[languages.de]
+		title = "Hebamme Jutta Wehinger"
+		languageName = "Deutsch"
+		languageCode = 'de-DE'
+		weight = 1
+		[languages.de.params]
+			  subtitle = "Hebamme mit Herz für deine neue Lebensphase in der Schwangerschaft und nach der Geburt in Dornbirn, Lustenau und Umgebung."
+	[languages.en]
+		title = "Midwife Jutta Wehinger"
+		languageName = "English"
+		languageCode = 'en-US'
+		weight = 2
+		[languages.en.params]
+			  subtitle = "A midwife with heart – supporting you through pregnancy and the precious time after birth in Dornbirn, Lustenau and the surrounding area."
 
 [Params.social]
   name = "instagram"

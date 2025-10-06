@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About me on Midwife Jutta Wehinger</title>
+    <link>http://localhost:1313/en/infos/</link>
+    <description>Recent content in About me on Midwife Jutta Wehinger</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="http://localhost:1313/en/infos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Midwifery practice</title>
+      <link>http://localhost:1313/en/infos/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/infos/2/</guid>
+      <description>&lt;p&gt;In my practice (with parking available), I offer:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Consultations as part of the Austrian Mother–Child Health Pass&lt;/li&gt;&#xA;&lt;li&gt;Advice during pregnancy and after birth&lt;/li&gt;&#xA;&lt;li&gt;Acupuncture&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Address&lt;/strong&gt;: Philipp-Krapf-Str. 24, 6890 Lustenau (new timber building, 1st floor)&lt;br&gt;&#xA;&lt;strong&gt;Parking&lt;/strong&gt;: St. Antoniusstr. 5&#xA;I share the premises with &lt;a href=&#34;https://osteopathie-storf.at&#34;&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;&#x9;target=&#34;_blank&#34;&#xD;&#xA;&#xD;&#xA;&gt;Physiotherapy Storf &#xD;&#xA;&#xD;&#xA; &amp;nbsp;&lt;i class=&#34;fas fa-external-link-alt fa-xs&#34;&gt;&lt;/i&gt;&#xD;&#xA;&#xD;&#xA;&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

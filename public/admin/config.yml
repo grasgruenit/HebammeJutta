@@ -1,0 +1,39 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: content
+public_folder: /
+collections:
+  - name: 'sections'
+    label: 'Hauptseite'
+    folder: 'content'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: 'Titel', name: 'title', widget: 'string' }
+      - { label: 'Bild', name: 'image', widget: 'string' }
+      - { label: 'Ausrichtung', name: 'orient', widget: 'string' }
+      - { label: 'BildPos', name: 'imagepos', widget: 'string' }
+      - { label: 'Style', name: 'style', widget: 'string' }
+      - { label: 'Hintergrund', name: 'bgcolor', widget: 'string' }
+      - { label: 'Reihung', name: 'order', widget: 'number' }
+      - { label: 'Versteckt', name: 'hidden', widget: 'boolean' }
+      - { label: 'Inhalt', name: 'body', widget: 'markdown' }
+    sortable_fields: ['title', 'order']
+  - name: 'infos'
+    label: 'Infos zu mir'
+    folder: 'content/infos'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Titel', name: 'title', widget: 'string' }
+      - { label: 'Bild', name: 'image', widget: 'string' }
+      - { label: 'Ausrichtung', name: 'orient', widget: 'string' }
+      - { label: 'BildPos', name: 'imagepos', widget: 'string' }
+      - { label: 'Style', name: 'style', widget: 'string' }
+      - { label: 'Hintergrund', name: 'bgcolor', widget: 'string' }
+      - { label: 'Reihung', name: 'order', widget: 'number' }
+      - { label: 'Inhalt', name: 'body', widget: 'markdown' }      
