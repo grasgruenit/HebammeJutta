@@ -1,11 +1,11 @@
 ---
 title: Softlasertherapie
 image: softlaser
-orient: right
+orient: left
 imagepos: center
 style: style1
-bgcolor: bcdbb3
-order: 7
+bgcolor: white
+order: 8
 hidden: false
 ---
 Für eine schnellere und bessere Wundheilung bei Narben und wunden Stellen biete ich die Softlasertherapie an. 

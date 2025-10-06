@@ -1,10 +1,11 @@
 ---
 title: Stillberatung
 image: stillen
-orient: left
+orient: right
 imagepos: center
 style: style1
-order: 6
+bgcolor: bcdbb3
+order: 7
 
 ---
 

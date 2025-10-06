@@ -1,11 +1,11 @@
 ---
 title: Babymassage
 image: massage
-orient: left
+orient: right
 imagepos: center
 style: style1
-bgcolor: "  "
-order: 8
+bgcolor: fee8db
+order: 9
 hidden: false
 ---
 Gönne deinem Baby 4 Wellnesseinheiten für eine gute Eltern-Kind-Bindung. Nimm dir eine Auszeit und tauche ein in die Babywelt. Lerne die Signale deines Kindes zu deuten und zu verstehen. Stärke dein Kind durch die harmonische Babymassage, um die Gesundheit aufrecht zu erhalten. Baue eine tiefe Bindung durch sanfte Berührung zu deinem Baby auf.

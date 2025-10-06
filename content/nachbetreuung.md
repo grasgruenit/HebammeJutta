@@ -1,11 +1,11 @@
 ---
 title: Nachbetreuung
 image: babypuck
-orient: right
+orient: left
 imagepos: center
 style: style1
-bgcolor: b0d7d7
-order: 5
+bgcolor: white
+order: 6
 hidden: false
 ---
 In der Nachbetreuung ist mein Herz zu Hause. Ich liebe es mit den frischgebackenen Eltern durch diese emotionale Phase im Leben zu gehen, sie kompetent zu begleiten und ihnen mit Stillberatung und weiteren wertvollen Tipps zur Seite zu stehen. 

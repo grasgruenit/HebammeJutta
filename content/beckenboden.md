@@ -1,10 +1,10 @@
 ---
 title: Beckenbodentraining
 image: turnen
-orient: right
+orient: left
 imagepos: center
 style: style1
-bgcolor: fee8db
+bgcolor: white
 order: 9
 hidden: false
 ---
