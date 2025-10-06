@@ -20,6 +20,8 @@ Wasser gleicht aus und lässt Energie wieder fließen.
 
 Freitags von 16-17 Uhr  
 
+Hallenbad der Mittelschule Rheindorf in Lustenau
+
 Kosten: Euro 120,-  
 
 {{< anmeldung >}}
