@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/agb/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/agb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://localhost:1313/agb/"
+                />
   </url><url>
     <loc>http://localhost:1313/aktuell/</loc>
     <xhtml:link
@@ -65,6 +75,16 @@
                 />
   </url><url>
     <loc>http://localhost:1313/datenschutz/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/datenschutz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://localhost:1313/datenschutz/"
+                />
   </url><url>
     <loc>http://localhost:1313/mukipa/</loc>
     <xhtml:link
@@ -163,5 +183,15 @@
                 />
   </url><url>
     <loc>http://localhost:1313/danke/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/danke/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://localhost:1313/danke/"
+                />
   </url>
 </urlset>
