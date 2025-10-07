@@ -23,6 +23,62 @@
 	    .modal-content {
         max-width: 800px !important; 
     } }
+	
+	 
+	.language-switcher {
+		position: absolute;  
+		top: 20px;           
+		right: 20px;         
+		z-index: 1000;       
+	}
+
+	 
+	.language-switcher ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		display: flex;  
+		gap: 10px;  
+	}
+
+	 
+	.language-switcher li {
+		display: inline-block;
+	}
+
+	.language-switcher a {
+		text-decoration: none;
+		color: inherit;  
+		padding: 5px;
+		border: 1px solid transparent;
+		border-radius: 4px;
+		display: flex;
+		align-items: center;
+		transition: background-color 0.3s;
+	}
+
+	 
+	.language-switcher .flag-icon {
+		font-size: 20px;  
+		line-height: 1;
+	}
+
+	 
+	.language-switcher .lang-name {
+		display: none; 
+	}
+
+	 
+	.language-switcher li.active-lang a {
+		border-color: #333;  
+		cursor: default;
+		opacity: 0.7;  
+	}
+
+	 
+	.language-switcher li:not(.active-lang) a:hover {
+		background-color: rgba(0, 0, 0, 0.1);
+	}
 	</style>
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
@@ -38,10 +94,32 @@
 
 		  <p>Der Beckenboden ist das Zentrum im Körper und steht in direkter Verbindung mit dem Gehirn und der Seele. In meinem Kurs lernst du mit behutsamen Übungen achtsam mit deinem Beckenboden umzugehen, damit er dir Mobilität und Stabilität gibt. Besonders nach einer Geburt braucht der Beckenboden ausreichend Aufmerksamkeit um deine Mitte wieder zu stärken. Beim Beckenbodentraining sind alle Frauen willkommen, du kannst sogar deine Mama mitbringen.</p>
 <p>Im Kurs kannst du lernen deinen Beckenboden und seine Kraft zu spüren und ihn zu stärken, damit er fit für deinen Alltag wird.</p>
-<p><strong>6 Einheiten,</strong> <strong>montags</strong> von 17.30-18.30 Uhr, ab 8-12 Wochen nach der Geburt<br>
+
+
+
+
+
+  
+
+  
+
+
+
+<button class="btn btn-primary " data-modal-open>
+  Infos
+</button>
+
+<div class="modal" data-modal>
+  <div class="modal-overlay" data-modal-close data-modal-overlay></div>
+  <div class="modal-content w-\[1000px]">
+    <p><strong>6 Einheiten,</strong> <strong>montags</strong> von 17.30-18.30 Uhr, ab 8-12 Wochen nach der Geburt<br>
 <strong>Ort</strong>: Veranstaltungsraum der Marktgemeinde beim Eltern Kind Zentrum im Pfarrweg 7, 6890 Lustenau<br>
 <strong>Kosten</strong>: Euro 120,-</p>
-<a href="https://wehinger.hebamio.at/kursliste" target="_blank" class="button icon fa-chevron-right">Anmeldung</a>
+<p><a href="https://wehinger.hebamio.at/kursliste" target="_blank" class="button icon fa-chevron-right">Anmeldung</a></p>
+
+    <button class="modal-close" data-modal-close>&times;</button>
+  </div>
+</div>
 
 
 

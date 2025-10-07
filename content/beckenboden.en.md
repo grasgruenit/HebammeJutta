@@ -14,8 +14,14 @@ stability and renewed strength after birth.
 
 All women are welcome – you can even bring your mum along!
 
-**6 Einheiten,** **montags** von 17.30-18.30 Uhr, ab 8-12 Wochen nach der Geburt\
-**Ort**: Veranstaltungsraum der Marktgemeinde beim Eltern Kind Zentrum im Pfarrweg 7, 6890 Lustenau\
-**Kosten**: Euro 120,-
+{{< modal btn-label="Infos" body-class="w-\[1000px]" >}} 
+
+**6 sessions**, Mondays 5.30–6.30 pm (from 8–12 weeks after birth)  
+
+**Venue**: Community hall of the Eltern-Kind-Zentrum, Pfarrweg 7, 6890 Lustenau
+
+**Fee**: € 120
 
 {{< registration >}}
+
+{{</ modal >}}

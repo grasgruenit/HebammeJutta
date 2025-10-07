@@ -12,8 +12,12 @@ Der Beckenboden ist das Zentrum im Körper und steht in direkter Verbindung mit 
 
 Im Kurs kannst du lernen deinen Beckenboden und seine Kraft zu spüren und ihn zu stärken, damit er fit für deinen Alltag wird.
 
+{{< modal btn-label="Infos" body-class="w-\[1000px]" >}} 
+
 **6 Einheiten,** **montags** von 17.30-18.30 Uhr, ab 8-12 Wochen nach der Geburt\
 **Ort**: Veranstaltungsraum der Marktgemeinde beim Eltern Kind Zentrum im Pfarrweg 7, 6890 Lustenau\
 **Kosten**: Euro 120,-
 
 {{< anmeldung >}}
+
+{{</ modal >}}

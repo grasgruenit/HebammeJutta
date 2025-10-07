@@ -1,0 +1,24 @@
+<div class="language-switcher">
+    <ul>
+    {{- range .Site.Sites }} 
+        {{- $site := . }}
+        {{- $translation := $.Page.GetPage $site.Language.Lang }}
+        
+        <li class="{{ if eq $.Site.Language.Lang $site.Language.Lang }}active-lang{{ end }}">
+            {{ if $translation }}
+                {{/* Translation found: link to the translated page */}}
+                <a href="{{ $translation.Permalink | safeURL }}" lang="{{ $site.Language.Lang }}" title="{{ $site.Language.LanguageName }}">
+                    <span class="flag-icon"><img src="/{{ $site.Language.Params.flag }}"></span>
+                    <span class="lang-name">{{ $site.Language.LanguageName }}</span>
+                </a>
+            {{ else }}
+                {{/* Translation NOT found: link to the Home page for that language */}}
+                <a href="{{ $site.Home.RelPermalink | safeURL }}" lang="{{ $site.Language.Lang }}" title="{{ $site.Language.LanguageName }}">
+                    <span class="flag-icon"><img src="/{{ $site.Language.Params.flag }}"></span>
+                    <span class="lang-name">{{ $site.Language.LanguageName }}*</span>
+                </a>
+            {{ end }}
+        </li>
+    {{- end }}
+    </ul>
+</div>

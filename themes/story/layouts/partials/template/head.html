@@ -27,6 +27,62 @@
 	    .modal-content {
         max-width: 800px !important; 
     } }
+	
+	/* Container for Positioning Language Switcher */
+	.language-switcher {
+		position: absolute; /* Allows for top-right positioning */
+		top: 20px;          /* Adjust vertical space from top */
+		right: 20px;        /* Adjust horizontal space from right */
+		z-index: 1000;      /* Ensure it stays on top of other elements */
+	}
+
+	/* List/Container Styling */
+	.language-switcher ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		display: flex; /* Arrange flags horizontally */
+		gap: 10px; /* Space between flags */
+	}
+
+	/* Individual Flag/Link Styling */
+	.language-switcher li {
+		display: inline-block;
+	}
+
+	.language-switcher a {
+		text-decoration: none;
+		color: inherit; /* Inherit text color from surrounding element */
+		padding: 5px;
+		border: 1px solid transparent;
+		border-radius: 4px;
+		display: flex;
+		align-items: center;
+		transition: background-color 0.3s;
+	}
+
+	/* Flag Icon/Emoji Styling */
+	.language-switcher .flag-icon {
+		font-size: 20px; /* Adjust size for emoji flags */
+		line-height: 1;
+	}
+
+	/* Optional: Hide language name, just show flag */
+	.language-switcher .lang-name {
+		display: none; 
+	}
+
+	/* Highlight the currently active language */
+	.language-switcher li.active-lang a {
+		border-color: #333; /* Dark border for the active flag */
+		cursor: default;
+		opacity: 0.7; /* Optional: Visually indicate it's not a link */
+	}
+
+	/* Optional: Hover effect for non-active links */
+	.language-switcher li:not(.active-lang) a:hover {
+		background-color: rgba(0, 0, 0, 0.1);
+	}
 	</style>
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>

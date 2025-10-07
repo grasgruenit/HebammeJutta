@@ -25,12 +25,94 @@
 	    .modal-content {
         max-width: 800px !important; 
     } }
+	
+	 
+	.language-switcher {
+		position: absolute;  
+		top: 20px;           
+		right: 20px;         
+		z-index: 1000;       
+	}
+
+	 
+	.language-switcher ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		display: flex;  
+		gap: 10px;  
+	}
+
+	 
+	.language-switcher li {
+		display: inline-block;
+	}
+
+	.language-switcher a {
+		text-decoration: none;
+		color: inherit;  
+		padding: 5px;
+		border: 1px solid transparent;
+		border-radius: 4px;
+		display: flex;
+		align-items: center;
+		transition: background-color 0.3s;
+	}
+
+	 
+	.language-switcher .flag-icon {
+		font-size: 20px;  
+		line-height: 1;
+	}
+
+	 
+	.language-switcher .lang-name {
+		display: none; 
+	}
+
+	 
+	.language-switcher li.active-lang a {
+		border-color: #333;  
+		cursor: default;
+		opacity: 0.7;  
+	}
+
+	 
+	.language-switcher li:not(.active-lang) a:hover {
+		background-color: rgba(0, 0, 0, 0.1);
+	}
 	</style>
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
 
 <body class="is-preload">
+
+<div class="language-switcher">
+    <ul>
+        
+        <li class="">
+            
+                
+                <a href="http://localhost:1313/" lang="de" title="Deutsch">
+                    <span class="flag-icon"><img src="http://localhost:1313/at.png"></span>
+                    <span class="lang-name">Deutsch*</span>
+                </a>
+            
+        </li>
+        
+        <li class="active-lang">
+            
+                
+                <a href="http://localhost:1313/en/" lang="en" title="English">
+                    <span class="flag-icon"><img src="http://localhost:1313/gb.png"></span>
+                    <span class="lang-name">English*</span>
+                </a>
+            
+        </li>
+    </ul>
+</div>
+
 
 	
 	<div id="wrapper" class="divided">
@@ -443,10 +525,32 @@ Fee: € 90</p>
 you’ll learn gentle, mindful exercises to strengthen your pelvic floor – giving you mobility,
 stability and renewed strength after birth.</p>
 <p>All women are welcome – you can even bring your mum along!</p>
-<p><strong>6 Einheiten,</strong> <strong>montags</strong> von 17.30-18.30 Uhr, ab 8-12 Wochen nach der Geburt<br>
-<strong>Ort</strong>: Veranstaltungsraum der Marktgemeinde beim Eltern Kind Zentrum im Pfarrweg 7, 6890 Lustenau<br>
-<strong>Kosten</strong>: Euro 120,-</p>
-<a href="https://wehinger.hebamio.at/kursliste?locale=en" target="_blank" class="button icon fa-chevron-right">Registration</a>
+
+
+
+
+
+  
+
+  
+
+
+
+<button class="btn btn-primary " data-modal-open>
+  Infos
+</button>
+
+<div class="modal" data-modal>
+  <div class="modal-overlay" data-modal-close data-modal-overlay></div>
+  <div class="modal-content w-\[1000px]">
+    <p><strong>6 sessions</strong>, Mondays 5.30–6.30 pm (from 8–12 weeks after birth)</p>
+<p><strong>Venue</strong>: Community hall of the Eltern-Kind-Zentrum, Pfarrweg 7, 6890 Lustenau</p>
+<p><strong>Fee</strong>: € 120</p>
+<p><a href="https://wehinger.hebamio.at/kursliste?locale=en" target="_blank" class="button icon fa-chevron-right">Registration</a></p>
+
+    <button class="modal-close" data-modal-close>&times;</button>
+  </div>
+</div>
 
 </p>
 				
