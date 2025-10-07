@@ -104,7 +104,11 @@
 
 
 
-		{{ partial "template/footer" . }}
+	{{ if eq .Site.Language.Lang "en" }}
+		{{ partial "template/footer.en.html" . }}
+	{{ else }}
+		{{ partial "template/footer.html" . }}
+	{{ end }}
 
 	</div>
 
