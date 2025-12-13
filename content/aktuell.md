@@ -8,7 +8,7 @@ bgcolor: bcdbb3
 order: 1
 hidden: false
 ---
-Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im Dezember 2025, Jänner und Februar 2026. 
+Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im Jänner, Februar und März 2026. 
 
 **Urlaub**: von 24.12.25 - 6.1.26 telefonische Betreuung in dieser Zeit.
 
