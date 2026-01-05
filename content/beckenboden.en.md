@@ -12,7 +12,7 @@ The pelvic floor is the body’s centre, closely linked to both mind and soul. I
 you’ll learn gentle, mindful exercises to strengthen your pelvic floor – giving you mobility,
 stability and renewed strength after birth.
 
-All women are welcome – you can even bring your mum along!
+All women are welcome!
 
 {{< modal btn-label="Infos" body-class="w-\[1000px]" >}} 
 
