@@ -10,8 +10,6 @@ hidden: false
 ---
 Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im Jänner, Februar und März 2026. 
 
-**Urlaub**: von 24.12.25 - 6.1.26 telefonische Betreuung in dieser Zeit.
-
 **Urlaub**: August 2026
 
 Hier sind die Termine für alle Kurse:
