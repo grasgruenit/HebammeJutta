@@ -10,8 +10,6 @@ hidden: false
 ---
 Last-minute availability for postnatal support with due dates in December 2025, January and Febuary 2026
 
-
-* Holiday: 24 Dec 2025 – 6 Jan 2026 (available by phone during this time).
 * Holiday: August 2026.
 
 Here you will also find upcoming dates for prenatal classes, aqua fit for pregnant women,
