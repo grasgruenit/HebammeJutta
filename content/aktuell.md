@@ -20,7 +20,7 @@ Der nächste **Geburtsvorbereitungskurs** startet am Montag, den 9.3.26, Termine
 9.3., 16.3, 23.3., 13.4., 20.4., 27.4. **Kurs**: 18.5., 1.6., 8.6., 15.6., 22.6., 30.6. **Kurs**: 14.9., 21.9., 28.9., 5.10., 12.10., 19.10.
 
 Das nächste **Beckenbodentraining** startet am Montag, den 16.3.26,
-Termine: 16.3., 23.3., 13.4., 20.4., 27.4. **Kurs**: 1.6., 8.6., 15.6., 22.6., 30.6. Kurs: 14.9.26, 21.9., 28.9., 5.10., 12.10., 19.10.
+Termine: 16.3., 23.3., 13.4., 20.4., 27.4. **Kurs**: 1.6., 8.6., 15.6., 22.6., 30.6. Kurs: 21.9.26, 28.9., 5.10., 12.10., 19.10.
 
 Die nächste **harmonische Babymassage** startet am Montag, den 18.5.26, Termine: 18.5.26, 1.6., 8.6., 15.6. **Kurs**: 14.9.26, 21.9., 28.9., 5.10.
 
