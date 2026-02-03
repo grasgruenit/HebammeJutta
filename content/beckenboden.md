@@ -14,7 +14,7 @@ Im Kurs kannst du lernen deinen Beckenboden und seine Kraft zu spüren und ihn z
 
 {{< modal btn-label="Infos" body-class="w-\[1000px]" >}} 
 
-**6 Einheiten,** **montags** von 17.30-18.30 Uhr, ab 8-12 Wochen nach der Geburt\
+**5 Einheiten,** **montags** von 17.30-18.30 Uhr, ab 8-12 Wochen nach der Geburt\
 **Ort**: Veranstaltungsraum der Marktgemeinde beim Eltern Kind Zentrum im Pfarrweg 7, 6890 Lustenau\
 **Kosten**: Euro 120,-
 
