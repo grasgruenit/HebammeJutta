@@ -16,7 +16,7 @@ All women are welcome, even if your delivery was long ago.
 
 {{< modal btn-label="Infos" body-class="w-\[1000px]" >}} 
 
-**6 sessions**, Mondays 5.30–6.30 pm (from 8–12 weeks after birth)  
+**5 sessions**, Mondays 5.30–6.30 pm (from 8–12 weeks after birth)  
 
 **Venue**: Community hall of the Eltern-Kind-Zentrum, Pfarrweg 7, 6890 Lustenau
 
