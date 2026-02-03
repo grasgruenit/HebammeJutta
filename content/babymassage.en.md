@@ -8,7 +8,7 @@ bgcolor: fee8db
 order: 9
 hidden: false
 ---
-Give your baby four “wellness” sessions that strengthen your bond. Take a break from
+Give your baby 3 “wellness” sessions that strengthen your bond. Take a break from
 everyday life, immerse yourself in your baby’s world, learn to read their signals and support
 their development through gentle, nurturing touch.
 
@@ -25,8 +25,8 @@ Benefits of baby massage include:
 * Feeling understood and secure
 * Overall healthy development
 
-4 sessions, Mondays 1.30–2.30 pm  
-Venue: Community hall of the Eltern-Kind-Zentrum, Pfarrweg 7, 6890 Lustenau  
+4 sessions, Mondays 1.30–2.30 pm\
+Venue: Community hall of the Eltern-Kind-Zentrum, Pfarrweg 7, 6890 Lustenau\
 Fee: € 90
 
 {{< registration >}}
