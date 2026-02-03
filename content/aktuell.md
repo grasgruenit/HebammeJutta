@@ -17,7 +17,7 @@ Hier sind die Termine für alle Kurse:
 {{< modal btn-label="Termine" body-class="w-\[1000px]" >}}
 
 Der nächste **Geburtsvorbereitungskurs** startet am Montag, den 9.3.26, Termine: 
-9.3., 16.3, 23.3., 13.4., 20.4., 27.4. **Kurs**: 18.5., 1.6., 8.6., 15.6., 22.6., 30.6. **Kurs**: 14.9., 21.9., 28.9., 5.10., 12.10., 19.10.
+9.3., 16.3, 23.3., 13.4., 20.4., 27.4. **Kurs**: 18.5., 1.6., 8.6., 15.6., 22.6., 30.6. **Kurs**: 14.9., 21.9., 28.9., 5.10., 12.10., 19.10. **Kurs**: 2.11.26, 9.11., 16.11., 23.11., 30.11., 7.12.
 
 Das nächste **Beckenbodentraining** startet am Montag, den 16.3.26,
 Termine: 16.3., 23.3., 13.4., 20.4., 27.4. **Kurs**: 1.6., 8.6., 15.6., 22.6., 30.6. Kurs: 21.9.26, 28.9., 5.10., 12.10., 19.10.
