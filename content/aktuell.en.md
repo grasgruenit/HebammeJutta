@@ -8,7 +8,7 @@ bgcolor: bcdbb3
 order: 1
 hidden: false
 ---
-Last-minute availability for postnatal support with due dates in Febuary, March and April 2026.
+Last-minute availability for postnatal support with due dates in May 2026.
 
 * Holiday: 7.8. - 4.9.2026
 * professional development: 11.7. - 15.7.26
