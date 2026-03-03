@@ -12,7 +12,7 @@ Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechn
 
 **Urlaub**: 7.8. - 4.9.2026
 
-Fortbildung: 11.7. - 15.7.26
+**Fortbildung**: 11.7. - 15.7.26
 
 Hier sind die Termine für alle Kurse:
 
