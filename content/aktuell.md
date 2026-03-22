@@ -10,9 +10,9 @@ hidden: false
 ---
 Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im Mai 2026. 
 
-**Urlaub**: 7.8. - 4.9.2026
+**Urlaub**: 7.8. - 4.9.2026 und 9.9.-13.9.26
 
-**Fortbildung**: 11.7. - 15.7.26
+**Fortbildung**: 14.7. - 16.7.26
 
 Hier sind die Termine für alle Kurse:
 
