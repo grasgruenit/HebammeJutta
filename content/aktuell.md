@@ -8,7 +8,7 @@ bgcolor: bcdbb3
 order: 1
 hidden: false
 ---
-Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im Mai 2026. 
+Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechnetem Geburtstermin im Mai 2026, dann erst wieder ab September 2026.
 
 **Urlaub**: 7.8. - 4.9.2026 und 9.9.-13.9.26
 
