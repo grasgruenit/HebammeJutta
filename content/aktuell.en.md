@@ -10,7 +10,7 @@ hidden: false
 ---
 Last-minute availability for postnatal support with due dates in July, September and October 2026.
 
-* **Holiday**: 7.8. - 4.9.26 and 24.9.-27.9.26
+* **Holiday**: 7.8. - 4.9.26,  24.9.-27.9.26 and 23.12.26 - 6.1.27
 * **Professional Development**: 14.7. - 16.7.26
 
 Here you will also find upcoming dates for prenatal classes, aqua fit for pregnant women, pelvic floor training and baby massage courses.
