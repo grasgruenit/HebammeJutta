@@ -24,10 +24,9 @@ Der nächste **Geburtsvorbereitungskurs** startet am Montag, den 18.5.26, Termin
 Das nächste **Beckenbodentraining** startet am Montag, den 1.6.26,
 Termine: 1.6.26, 8.6., 15.6., 22.6., 30.6. Kurs: 21.9.26, 28.9., 5.10., 12.10., 19.10.
 
-Die nächste **harmonische Babymassage** startet am Montag, den 18.5.26, Termine: 18.5.26, 1.6., 8.6. **Kurs**: 14.9.26, 21.9., 28.9. **Kurs**: 9.11.26, 16.11., 23.11.
+Die nächste **harmonische Babymassage** startet am Montag, den 14.9.26, Termine: 14.9.26, 21.9., 28.9. **Kurs**: 9.11.26, 16.11., 23.11.
 
-Das nächste **Aqua Fit für Schwangere** startet am Freitag, den 10.4.26, Termine: 
-10.4.26, 17.4., 24.4., 8.5., 22.5. **Kurs**: 2.10.26, 9.10., 16.10., 6.11., 13.11. **Kurs**: 20.11.26, 27.11., 4.12., 11.12., 18.12.
+Das nächste **Aqua Fit für Schwangere** startet am Freitag, den 2.10.26, Termine: 2.10.26, 9.10., 16.10., 6.11., 13.11. **Kurs**: 20.11.26, 27.11., 4.12., 11.12., 18.12.
 
 {{< anmeldung >}}
 
