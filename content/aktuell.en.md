@@ -22,10 +22,9 @@ The next p**renatal class** will start on **Monday, 18.5.26**. Course dates: 18.
 The next pelvic floor training course will start on **Monday, 1.6.2026**.
 **Course dates:** 1.6.26, 8.6., 15.6., 22.6., 30.6. **course**: 21.9.26, 28.9., 5.10., 12.10., 19.10.
 
-The next **baby massage course** will start on **Monday, 18.5.2026**. **Course dates:**
-18.5.26, 1.6., 8.6.  **course**: 14.9.26, 21.9., 28.9. **course**: 9.11.26, 16.11., 23.11.
+The next **baby massage course** will start on **Monday, 14.9.26.** **Course dates:** 14.9.26, 21.9., 28.9. **course**: 9.11.26, 16.11., 23.11.
 
-The next **Aqua Fit for Pregnant Women** course will start on **Friday, 10.4.26**. **Course dates:** 10.4.26, 17.4., 24.4., 8.5., 22.5. **course**: 2.10.26, 9.10., 16.10., 6.11., 13.11. **course**: 20.11.26, 27.11., 4.12., 11.12., 18.12.
+The next **Aqua Fit for Pregnant Women** course will start on **Friday, 2.10.26**. **Course dates:** 2.10.26, 9.10., 16.10., 6.11., 13.11. **course**: 20.11.26, 27.11., 4.12., 11.12., 18.12.
 
 {{< registration >}}
 
