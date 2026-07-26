@@ -11,16 +11,15 @@ hidden: false
 Last-minute availability for postnatal support with due dates in July, September and October 2026.
 
 * **Holiday**: 7.8. - 4.9.26,  24.9.-27.9.26 and 23.12.26 - 6.1.27
-* **Professional Development**: 14.7. - 16.7.26
 
 Here you will also find upcoming dates for prenatal classes, aqua fit for pregnant women, pelvic floor training and baby massage courses.
 
 {{< modal btn-label="Termine" body-class="w-\[1000px]" >}}
 
-The next p**renatal class** will start on **Monday, 18.5.26**. Course dates: 18.5., 1.6., 8.6., 15.6., 22.6., 29.6. **course**: 14.9., 21.9., 28.9., 5.10., 12.10., 19.10. **course**: 2.11.26, 9.11., 16.11., 23.11., 30.11., 7.12.
+The next p**renatal class** will start on **Monday, 14.9.26**. Course dates: 14.9., 21.9., 28.9., 5.10., 12.10., 19.10. **course**: 2.11.26, 9.11., 16.11., 23.11., 30.11., 7.12.
 
-The next pelvic floor training course will start on **Monday, 1.6.2026**.
-**Course dates:** 1.6.26, 8.6., 15.6., 22.6., 30.6. **course**: 21.9.26, 28.9., 5.10., 12.10., 19.10.
+The next pelvic floor training course will start on **Monday, 21.9.2026**.
+**Course dates:** 21.9.26, 28.9., 5.10., 12.10., 19.10.
 
 The next **baby massage course** will start on **Monday, 14.9.26.** **Course dates:** 14.9.26, 21.9., 28.9. **course**: 9.11.26, 16.11., 23.11.
 
