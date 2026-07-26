@@ -12,17 +12,14 @@ Für Kurzentschlossene gibt es noch freie Plätze für Nachbetreuung mit errechn
 
 **Urlaub**: 7.8. - 4.9.26, 24.9.-27.9.26 und 23.12.26 - 6.1.27
 
-**Fortbildung**: 14.7. - 16.7.26
-
 Hier sind die Termine für alle Kurse:
 
 {{< modal btn-label="Termine" body-class="w-\[1000px]" >}}
 
-Der nächste **Geburtsvorbereitungskurs** startet am Montag, den 18.5.26, Termine: 
-18.5., 1.6., 8.6., 15.6., 22.6., 29.6. **Kurs**: 14.9., 21.9., 28.9., 5.10., 12.10., 19.10. **Kurs**: 2.11.26, 9.11., 16.11., 23.11., 30.11., 7.12.
+Der nächste **Geburtsvorbereitungskurs** startet am Montag, den 14.9.26, Termine: 14.9., 21.9., 28.9., 5.10., 12.10., 19.10. **Kurs**: 2.11.26, 9.11., 16.11., 23.11., 30.11., 7.12. 
 
-Das nächste **Beckenbodentraining** startet am Montag, den 1.6.26,
-Termine: 1.6.26, 8.6., 15.6., 22.6., 30.6. Kurs: 21.9.26, 28.9., 5.10., 12.10., 19.10.
+Das nächste **Beckenbodentraining** startet am Montag, den 21.9.26,
+Termine: 21.9.26, 28.9., 5.10., 12.10., 19.10.
 
 Die nächste **harmonische Babymassage** startet am Montag, den 14.9.26, Termine: 14.9.26, 21.9., 28.9. **Kurs**: 9.11.26, 16.11., 23.11.
 
