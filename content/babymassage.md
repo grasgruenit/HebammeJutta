@@ -12,7 +12,7 @@ Gönne deinem Baby 3 Wellnesseinheiten für eine gute Eltern-Kind-Bindung. Nimm 
 
 {{< modal btn-label="Infos" body-class="w-\[1000px]" >}} 
 
-Die Harmonische **Babymassage sorgt** für 
+Die **Harmonische Babymassage** sorgt für 
 
 * eine größere Dichte der Gehirnzellen   
 * höheren IQ
