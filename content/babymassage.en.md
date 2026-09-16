@@ -14,7 +14,7 @@ their development through gentle, nurturing touch.
 
 {{< modal btn-label="Infos" body-class="w-\[1000px]" >}} 
 
-Benefits of baby massage include:
+Benefits of **baby massage** include:
 
 * Increased brain cell density
 * Higher IQ
@@ -25,9 +25,10 @@ Benefits of baby massage include:
 * Feeling understood and secure
 * Overall healthy development
 
-4 sessions, Mondays 1.30–2.30 pm\
-Venue: Community hall of the Eltern-Kind-Zentrum, Pfarrweg 7, 6890 Lustenau\
-Fee: € 90
+4 sessions, 
+📅 Mondays 1.30–2.30 pm\
+📍 Venue: Community hall of the Eltern-Kind-Zentrum, Pfarrweg 7, 6890 Lustenau\
+💶 Fee: € 90
 
 {{< registration >}}
 
