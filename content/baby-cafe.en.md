@@ -21,6 +21,7 @@ dads, have a chat and share your experiences. Whether it’s breastfeeding,
 introducing solids, sleep, your baby’s development, parenting or
 everyday family life – everything is welcome. Older siblings are very
 welcome too, and there is plenty of space for them to play.
+
 {{< modal btn-label="Infos" body-class="w-\[1000px]" >}} 
 
 ### Baby Café in Lustenau
