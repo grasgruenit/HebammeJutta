@@ -35,8 +35,8 @@ Please bring the exact amount in cash.
 
 >If your baby lives in Lustenau, you can use the Stillgutschein from the
 Marktgemeinde Lustenau once,it is included in the baby welcome pack.
-A heartfelt thank you to the Marktgemeinde Lustenau for their valuable
-support!
+>A heartfelt thank you to the Marktgemeinde Lustenau for their valuable
+support!  
 To make sure I can prepare enough food, please register in advance:  
 {{< registration >}}
 
