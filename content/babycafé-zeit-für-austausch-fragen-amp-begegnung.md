@@ -1,6 +1,6 @@
 ---
 title: Babycafé - Zeit für Austausch, Fragen & Begegnung
-image: massage
+image: babycafe
 orient: right
 imagepos: center
 style: style1
@@ -12,6 +12,8 @@ Du bist Mama geworden – und plötzlich ist alles neu.\
 So wunderschön diese erste Zeit mit Baby ist, so viele Fragen und Unsicherheiten können gleichzeitig entstehen.\
 Gerade in dieser Zeit kann sich vieles überwältigend oder manchmal auch einsam anfühlen. Im Austausch mit anderen Eltern merkt man schnell, dass viele Sorgen, Fragen und kleine Herausforderungen ganz normal sind. Im Babycafé möchte ich dafür einen Ort bieten. Ob Stillen, Beikost, Schlafen, Entwicklung, Erziehung oder der ganz normale Familienalltag – alles darf Thema sein. Natürlich dürfen auch die älteren Geschwisterkinder mitkommen.\
 Die Räumlichkeiten bieten Platz zum Spielen.
+
+{{< modal btn-label="Infos" body-class="w-\[1000px]" >}} 
 
 Das Babycafé findet 2 x im Monat am Freitag Nachmittag statt.
 
@@ -27,4 +29,6 @@ Ein herzliches Dankeschön an die Marktgemeinde Lustenau für die wertvolle Unte
 
 Damit ich die richtige Menge an Jause vorbereiten kann, bitte ich um
 
-Anmeldung:
+{{< registration >}}
+
+{{</ modal >}}
