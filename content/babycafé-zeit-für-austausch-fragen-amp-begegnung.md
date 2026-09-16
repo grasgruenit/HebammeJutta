@@ -18,16 +18,16 @@ Gerade in dieser Zeit kann sich vieles überwältigend oder manchmal auch einsam
 
 ### Babycafé in Lustenau
 
-📅Das **Babycafé** findet 2 x im Monat am Freitag Nachmittag statt.
+📅 Das **Babycafé** findet 2 x im Monat am Freitag Nachmittag statt.
 
 📍**Ort**: Eltern-Kind-Zentrum, Pfarrweg 7, Lustenau\
 Räumlichkeiten der Spielgruppe Regenbogen
 
-💶**Unkostenbeitrag**: inkl. Jause beträgt € 5,- pro Erwachsener\
+💶 **Unkostenbeitrag**: inkl. Jause beträgt € 5,- pro Erwachsener\
 Bitte den Betrag passend in bar mitbringen.
 
-Für Lustenauer Babys, kann der Stillgruppengutschein der Marktgemeinde Lustenau aus dem Babypaket einmalig dafür eingelöst werden.
-Ein herzliches Dankeschön an die Marktgemeinde Lustenau für die wertvolle Unterstützung!
+>Für Lustenauer Babys, kann der **Stillgruppengutschein** der Marktgemeinde Lustenau aus dem Babypaket einmalig dafür eingelöst werden.  
+>Ein herzliches Dankeschön an die Marktgemeinde Lustenau für die wertvolle Unterstützung!
 
 Damit ich die richtige Menge an Jause vorbereiten kann, bitte ich um Anmeldung.
 
