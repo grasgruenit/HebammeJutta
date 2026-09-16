@@ -20,9 +20,9 @@ vitality and flowing energy – for both you and your baby.
 
 5 sessions · 60 minutes each
 
-Fridays, 4–5 pm
+📅 Fridays, 4–5 pm
 
-€ 120
+💶 € 120
 
 {{< registration >}}
 
