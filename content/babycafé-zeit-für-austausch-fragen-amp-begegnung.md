@@ -24,11 +24,10 @@ Unkostenbeitrag: inkl. Jause beträgt € 5,- pro Erwachsener\
 Bitte den Betrag passend in bar mitbringen.
 
 Für Lustenauer Babys, kann der Stillgruppengutschein der Marktgemeinde Lustenau aus dem Babypaket einmalig dafür eingelöst werden.
-
 Ein herzliches Dankeschön an die Marktgemeinde Lustenau für die wertvolle Unterstützung!
 
 Damit ich die richtige Menge an Jause vorbereiten kann, bitte ich um
 
-{{< registration >}}
+{{< anmeldung >}}
 
 {{</ modal >}}
