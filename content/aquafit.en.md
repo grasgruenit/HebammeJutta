@@ -17,7 +17,7 @@ amniotic fluid. In Aqua Fit, you’ll experience this natural element as a sourc
 vitality and flowing energy – for both you and your baby.
 
 {{< modal btn-label="Infos" body-class="w-\[1000px]" >}}
-
+### Aqua Fit 
 5 sessions · 60 minutes each
 
 📅 Fridays, 4–5 pm
