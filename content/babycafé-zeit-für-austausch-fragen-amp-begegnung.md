@@ -1,10 +1,10 @@
 ---
-title: Babycafé - Zeit für Austausch, Fragen &amp; Begegnung
+title: Babycafé - Zeit für Austausch, Fragen & Begegnung
 image: massage
 orient: right
 imagepos: center
 style: style1
-bgcolor: fee8db
+bgcolor: b0d7d7
 order: 11
 hidden: false
 ---
