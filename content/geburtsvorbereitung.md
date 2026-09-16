@@ -13,12 +13,14 @@ Durch das Wissen Rund um die Schwangerschaft, Geburt, Entspannungs- und Atemübu
 
 {{< modal btn-label="Infos" body-class="w-\[1000px]" >}}
 
+### Geburtsvorbereitung\
 6 **Einheiten**, davon 4 Frauenabende und die letzten 2 Abende mit Partner\
-Montags von 19-20.30 Uhr
 
-**Ort**: Veranstaltungsraum der Marktgemeinde beim Eltern Kind Zentrum im Pfarrweg 7, 6890 Lustenau
+📅 Montags von 19-20.30 Uhr
 
-**Kosten**: Euro 260,-
+📍 **Ort**: Veranstaltungsraum der Marktgemeinde beim Eltern Kind Zentrum im Pfarrweg 7, 6890 Lustenau
+
+💶 **Kosten**: Euro 260,-
 
 {{< anmeldung >}}
 
