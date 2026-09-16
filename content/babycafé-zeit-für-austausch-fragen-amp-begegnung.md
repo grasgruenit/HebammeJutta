@@ -1,5 +1,5 @@
 ---
-title: Babycafé - Zeit für Austausch, Fragen & Begegnung
+title: Babycafé
 image: babycafe
 orient: right
 imagepos: center
@@ -8,6 +8,7 @@ bgcolor: b0d7d7
 order: 11
 hidden: false
 ---
+### Zeit für Austausch, Fragen & Begegnung  
 Du bist Mama geworden – und plötzlich ist alles neu.\
 So wunderschön diese erste Zeit mit Baby ist, so viele Fragen und Unsicherheiten können gleichzeitig entstehen.\
 Gerade in dieser Zeit kann sich vieles überwältigend oder manchmal auch einsam anfühlen. Im Austausch mit anderen Eltern merkt man schnell, dass viele Sorgen, Fragen und kleine Herausforderungen ganz normal sind. Im Babycafé möchte ich dafür einen Ort bieten. Ob Stillen, Beikost, Schlafen, Entwicklung, Erziehung oder der ganz normale Familienalltag – alles darf Thema sein. Natürlich dürfen auch die älteren Geschwisterkinder mitkommen.\
