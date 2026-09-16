@@ -16,6 +16,8 @@ Wasser gleicht aus und lässt Energie wieder fließen.
 
 {{< modal btn-label="Infos" body-class="w-\[1000px]" >}}
 
+### Aqua Fit  
+
 5 Einheiten zu je 60 Minuten  
 
 📅 Freitags von 16-17 Uhr  
