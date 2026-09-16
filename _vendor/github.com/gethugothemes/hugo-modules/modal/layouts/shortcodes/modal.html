@@ -14,7 +14,7 @@
 <div class="modal" data-modal>
   <div class="modal-overlay" data-modal-close data-modal-overlay></div>
   <div class="modal-content {{ $bodyClass }}">
-    {{ .Inner | markdownify }}
     <button class="modal-close" data-modal-close>&times;</button>
+    {{ .Inner | markdownify }}
   </div>
 </div>
