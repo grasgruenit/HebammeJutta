@@ -15,12 +15,14 @@ stability and renewed strength after birth.
 All women are welcome, even if your delivery was long ago.
 
 {{< modal btn-label="Infos" body-class="w-\[1000px]" >}} 
+### Pelvic floor training
 
-**5 sessions**, Mondays 5.30–6.30 pm (from 8–12 weeks after birth)  
+**5 sessions**, 
+📅 Mondays 5.30–6.30 pm (from 8–12 weeks after birth)  
 
-**Venue**: Community hall of the Eltern-Kind-Zentrum, Pfarrweg 7, 6890 Lustenau
+📍 **Venue**: Community hall of the Eltern-Kind-Zentrum, Pfarrweg 7, 6890 Lustenau
 
-**Fee**: € 120
+💶 **Fee**: € 120
 
 {{< registration >}}
 
