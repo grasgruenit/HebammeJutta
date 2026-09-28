@@ -8,7 +8,7 @@ bgcolor: bcdbb3
 order: 1
 hidden: false
 ---
-Last-minute availability for postnatal support with due dates in July, September and October 2026.
+Last-minute availability for postnatal support with due dates in October, November and December 2026.
 
 * **Holiday**: 23.12.26 - 6.1.27
 
