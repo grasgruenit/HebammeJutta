@@ -25,7 +25,7 @@ with a sense of calm and confidence.
 📍 **Venue**: Community hall of the Eltern-Kind-Zentrum, Pfarrweg 7, 6890 Lustenau\
 💶 **Fee**: € 260  
 
-Please note that the group sessions are in German only!
+Please note that these group sessions are in German only!
 
 {{< registration >}}
 
