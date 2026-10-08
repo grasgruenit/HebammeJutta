@@ -20,8 +20,8 @@ Here you will also find upcoming dates for prenatal classes, aqua fit for pregna
 
 The next p**renatal class** will start on **Monday, 2.11.26**. Course dates: 2.11.26, 9.11., 16.11., 23.11., 30.11., 7.12.  **course**: 25.1.27, 1.2., 8.2., 15.2., 22.2., 1.3. **course**: 15.3.27, 22.3., 5.4., 12.4., 19.4., 26.4.  **course**: 24.5.27, 31.5., 7.6., 14.6., 21.6., 28.6.
 
-The next pelvic floor training course will start on **Monday, 21.9.2026**.
-**Course dates:** 21.9.26, 28.9., 5.10., 12.10., 21.10.
+The next pelvic floor training course will start on **Monday, 25.1.2027**
+**Course dates:** 25.1.27, 1.2., 8.2., 15.2., 23.2. **course**: 5.4.27, 12.4, 19.4., 26.4., 3.5. **course**: 31.5.27, 14.6., 21.6., 28.6., 5.7. 
 
 The next **baby massage course** will start on **Monday, 9.11.26.** **Course dates:**  9.11.26, 16.11., 23.11.
 
