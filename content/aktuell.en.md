@@ -8,9 +8,9 @@ bgcolor: bcdbb3
 order: 1
 hidden: false
 ---
-Last-minute availability for postnatal support with due dates in October, November and December 2026.
+Last-minute availability for postnatal support with due dates in November and December 2026 and in January 2027
 
-* **Holiday**: 23.12.26 - 6.1.27
+* **Holidays**: 23.12.26 - 6.1.27
 
 Here you will also find upcoming dates for prenatal classes, aqua fit for pregnant women, pelvic floor training and baby massage courses.
 
