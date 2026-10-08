@@ -14,12 +14,15 @@ breastfeeding and newborn care, as well as the importance of the postnatal perio
 bonding between parents and baby. With the right preparation, you can look forward to birth
 with a sense of calm and confidence.
 
+Please note that the group sessions are in German only!
+
 {{< modal btn-label="Infos" body-class="w-\[1000px]" >}}
+
 ### Prenatal classes
 
-**6 sessions**: 4 women-only evenings, followed by 2 sessions with partners  
-📅 Mondays, 7–8.30 pm  
-📍 **Venue**: Community hall of the Eltern-Kind-Zentrum, Pfarrweg 7, 6890 Lustenau  
+**6 sessions**: 4 women-only evenings, followed by 2 sessions with partners\
+📅 Mondays, 7–8.30 pm\
+📍 **Venue**: Community hall of the Eltern-Kind-Zentrum, Pfarrweg 7, 6890 Lustenau\
 💶 **Fee**: € 260  
 
 {{< registration >}}
