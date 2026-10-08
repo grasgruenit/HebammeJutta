@@ -25,7 +25,7 @@ The next pelvic floor training course will start on **Monday, 25.1.2027**
 
 The next **baby massage course** will start on **Monday, 9.11.26.** **Course dates:**  9.11.26, 16.11., 23.11. **course**: 18.1.27, 25.1., 1.2. **course**: 5.4.27, 12.4., 19.4.
 
-The next **Aqua Fit for Pregnant Women** course will start on **Friday, 2.10.26**. **Course dates:** 2.10.26, 9.10., 16.10., 6.11., 13.11. **course**: 20.11.26, 27.11., 4.12., 11.12., 18.12.
+The next **Aqua Fit for Pregnant Women** course will start on **Friday, 22.11.26**. **Course dates:** 20.11.26, 27.11., 4.12., 11.12., 18.12. **course**: 15.1.27, 22.1., 29.1., 5.2., 12.2. **course**: 26.2.27, 5.3., 12.3., 2.4., 9.4.
 
 {{< registration >}}
 
