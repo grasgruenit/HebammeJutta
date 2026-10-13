@@ -10,7 +10,7 @@ hidden: false
 ---
 ### A place to connect, share &amp; ask questions
 
-You’ve become a mum – and suddenly, everything is new.  
+You’ve become a mum – and suddenly, everything is new.\
 As beautiful as those first weeks and months with your baby can be, they can
 also bring lots of questions, uncertainty and new challenges. At times, it can
 feel overwhelming or even a little lonely. Meeting and talking to other parents
@@ -31,15 +31,15 @@ welcome too, and there is plenty of space for them to play.
 📍**Where**: Eltern-Kind-Zentrum, Pfarrweg 7, Lustenau\
 Rooms of Spielgruppe Regenbogen
 
-💶 **Contribution**: €5 per adult, including a light snack.
+💶 **Contribution**: €5 per adult, including coffe and cake.
 Please bring the exact amount in cash.
 
->If your baby lives in Lustenau, you can use the Stillgutschein from the
-Marktgemeinde Lustenau once,it is included in the baby welcome pack.  
-A heartfelt thank you to the Marktgemeinde Lustenau for their valuable
-support!
+> If your baby lives in Lustenau, you can use the Stillgutschein from the
+> Marktgemeinde Lustenau once,it is included in the baby welcome pack.\
+> A heartfelt thank you to the Marktgemeinde Lustenau for their valuable
+> support!
 
-To make sure I can prepare enough food, please register in advance:  
+To make sure I can prepare enough cake and coffee, please register in advance:\
 {{< registration >}}
 
 {{</ modal >}}
