@@ -32,7 +32,7 @@ welcome too, and there is plenty of space for them to play.
 Rooms of Spielgruppe Regenbogen
 
 💶 **Contribution**: €5 per adult, including coffe and cake.
-Please bring the exact amount in cash.
+Please bring the exact amount in cash, or pay by card on the day (contactless payment is also accepted).
 
 > If your baby lives in Lustenau, you can use the Stillgutschein from the
 > Marktgemeinde Lustenau once,it is included in the baby welcome pack.\
