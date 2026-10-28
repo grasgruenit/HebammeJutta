@@ -24,7 +24,7 @@ Gerade in dieser Zeit kann sich vieles überwältigend oder manchmal auch einsam
 Räumlichkeiten der Spielgruppe Regenbogen
 
 💶 **Unkostenbeitrag**: inkl. Kuchen und Kaffee beträgt € 5,- pro Erwachsener\
-Bitte den Betrag passend in bar mitbringen.
+Bitte den Betrag passend in bar mitbringen oder vor Ort mit Karte (auch kontaktlos) bezahlen.
 
 > Für Lustenauer Babys, kann der **Stillgruppengutschein** der Marktgemeinde Lustenau aus dem Babypaket einmalig dafür eingelöst werden.\
 > Ein herzliches Dankeschön an die Marktgemeinde Lustenau für die wertvolle Unterstützung!
