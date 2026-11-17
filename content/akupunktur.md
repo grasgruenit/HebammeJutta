@@ -14,7 +14,7 @@ Akupunktur hilft in der Schwangerschaft und im Wochenbett bei:
 * Übelkeit
 * Rückenschmerzen, Ischiasschmerzen
 * Beckenendlage (damit sich das Kind dreht)
-* Kopfschmerzen und Migräne
+* Hämorrhoiden
 * Geburtsvorbereitend
 * Geburtseinleitend (nach dem errechneten Termin)
 * Stillproblemen
