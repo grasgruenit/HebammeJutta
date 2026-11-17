@@ -14,7 +14,7 @@ Acupuncture during pregnancy and after birth can support with:
 * Nausea
 * Back pain, sciatica
 * Breech position (to encourage the baby to turn)
-* Headaches and migraines
+* haemorrhoids
 * Birth preparation
 * Induction, after the due date
 * Breastfeeding difficulties
