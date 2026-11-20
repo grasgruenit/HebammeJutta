@@ -8,7 +8,7 @@ bgcolor: bcdbb3
 order: 1
 hidden: false
 ---
-Last-minute availability for postnatal support with due dates in December 2026 and in January and February 2027
+Last-minute availability for postnatal support with due dates in December 2026, in January and in February 2027
 
 * **Holidays**: 23.12.26 - 6.1.27
 
